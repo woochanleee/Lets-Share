@@ -10,6 +10,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [언어](#언어)
   - [JavaScript](#JavaScript)
+  - [TypeScript](#TypeScript)
 - [디자인](#디자인)
   - [UI/UX](#UIUX)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
@@ -23,6 +24,9 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 **[⬆ 위로가기](#목차)**
 ### JavaScript
 - [var은 생략될 수 없습니다](https://overcurried.netlify.app/var%EC%9D%80%20%EC%83%9D%EB%9E%B5%EB%90%A0%20%EC%88%98%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4/?fbclid=IwAR2c6jv2G5Cgv9dhmtMmr2EDe-SahrcF8htIOfqWTK6VrA3mLTrLyU8Ubo4)
+
+### TypeScript
+- [조금 더 안전한 랜덤 숫자(의사 난수) 생성할려고 했던 얘기](https://luckyyowu.tistory.com/406?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR0miVtgDtV8GUE2XOJGAx2qX2CHXJS4dcu5FXIyJZ9wHzd9Xiw_3sU3-Rs)
 
 **[⬆ 위로가기](#목차)**
 ## 디자인
