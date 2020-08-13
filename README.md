@@ -9,7 +9,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 # 목차
 
 - [디자인](#디자인)
-  - [UI/UX](#UI/UX)
+  - [UI/UX](#UIUX)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [Javalin](#Javalin)
 
