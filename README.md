@@ -8,10 +8,19 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 # 목차
 
+- [디자인](#디자인)
+  - [UI/UX](#UI/UX)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [Javalin](#Javalin)
 
 # 📖 공유 문서 📖 
+
+**[⬆ 위로가기](#목차)**
+## 디자인
+
+**[⬆ 위로가기](#목차)**
+### UI/UX
+- [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/?fbclid=IwAR3WO_sqdIPl5yCxfoA9IONTFZfp9wT4HhCgx-j_4Lc3BPB_zcnyMinwzD4)
 
 **[⬆ 위로가기](#목차)**
 ## 프레임워크 or 라이브러리
