@@ -8,12 +8,21 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 # 목차
 
+- [언어](#언어)
+  - [JavaScript](#JavaScript)
 - [디자인](#디자인)
   - [UI/UX](#UIUX)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [Javalin](#Javalin)
 
 # 📖 공유 문서 📖 
+
+**[⬆ 위로가기](#목차)**
+## 언어
+
+**[⬆ 위로가기](#목차)**
+### JavaScript
+- [var은 생략될 수 없습니다](https://overcurried.netlify.app/var%EC%9D%80%20%EC%83%9D%EB%9E%B5%EB%90%A0%20%EC%88%98%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4/?fbclid=IwAR2c6jv2G5Cgv9dhmtMmr2EDe-SahrcF8htIOfqWTK6VrA3mLTrLyU8Ubo4)
 
 **[⬆ 위로가기](#목차)**
 ## 디자인
