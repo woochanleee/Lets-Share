@@ -15,6 +15,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [디자인](#디자인)
   - [UI/UX](#UIUX)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
+  - [React](#React)
   - [Javalin](#Javalin)
   - [기타](#기타)
 - [버전 관리](#버전-관리)
@@ -63,6 +64,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 **[⬆ 위로가기](#-목차-)**
 
 ## 프레임워크 or 라이브러리
+
+**[⬆ 위로가기](#-목차-)**
+
+### React
+
+- [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/?fbclid=IwAR0c_PbNdW6StsMy6XpZGUYXduIvrpP7sEgzcPAUQwUGplHM3RAyA8OKE4A)
 
 **[⬆ 위로가기](#-목차-)**
 
