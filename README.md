@@ -23,6 +23,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [기타](#기타)
 - [버전 관리](#버전-관리)
   - [git](#git)
+- [백엔드](#백엔드)
+  - [개발 툴](#개발-툴)
 - [네트워크](#네트워크)
   - [통신](#통신)
 
@@ -131,6 +133,16 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [[번역] github 에서 자주 쓰이는 영어 정리해 봤습니다.](https://tagilog.tistory.com/588?fbclid=IwAR2htFWnNw5dKr8rQ3qMQVSsH8ZxVlq8iwUAcdGnJMIG5JAWlbfVFknjhnk)
 - [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html?fbclid=IwAR1O2WTYvRBsLfzJ94sxypPHNJlUGMI49umyHFk-I9SUHkW7PAcl0k-5ZX0)
+
+**[⬆ 위로가기](#-목차-)**
+
+## 백엔드
+
+**[⬆ 위로가기](#-목차-)**
+
+### 개발 툴
+
+- [[서버] 로그인이 필요한 API 똑똑하게 테스트 하는 방법 - postman 활용](https://blog.naver.com/pjt3591oo/221822014861?fbclid=IwAR2ijbBTaFyEk372Qgi8QbPwpzLgbkzwJoeHFrCux76yI1ASrI4yeHyHmmo)
 
 **[⬆ 위로가기](#-목차-)**
 
