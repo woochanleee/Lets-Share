@@ -14,8 +14,6 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [TypeScript](#TypeScript)
   - [Go](#Go)
   - [클린코드](#클린코드)
-- [디자인](#디자인)
-  - [UI/UX](#UIUX)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [React](#React)
   - [Javalin](#Javalin)
@@ -28,6 +26,9 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [네트워크](#네트워크)
   - [통신](#통신)
   - [프로토콜](#프로토콜)
+- [디자인](#디자인)
+  - [UI/UX](#UIUX)
+  - [이미지](#이미지)
 
 # 📖 공유 문서 📖
 
@@ -81,16 +82,6 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR3LuAyLckq18afyOGxdGE25vkjylytxuR7nsxpSyVTwA2rKeo7Fpd6oIe4)
 - [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md?fbclid=IwAR2uz8jGxP9rI45Rf94ZTDoVvaxOgpzewJRU0MraGCQwLCtaT0kp7hD-JS8)
-
-**[⬆ 위로가기](#-목차-)**
-
-## 디자인
-
-**[⬆ 위로가기](#-목차-)**
-
-### UI/UX
-
-- [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/?fbclid=IwAR3WO_sqdIPl5yCxfoA9IONTFZfp9wT4HhCgx-j_4Lc3BPB_zcnyMinwzD4)
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -160,3 +151,20 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### 프로토콜
 
 - [HTTP VS HTTPS 차이, 알면 사이트의 레벨이 보인다.](http://blog.wishket.com/http-vs-https-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EB%A9%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EB%A0%88%EB%B2%A8%EC%9D%B4-%EB%B3%B4%EC%9D%B8%EB%8B%A4/?fbclid=IwAR1tdS6Y25Qj2h-vf_RkbFqCNWElEpEn-jFwXzlYPT5oS-Q9m5ayxOBRviM)
+
+**[⬆ 위로가기](#-목차-)**
+
+## 디자인
+
+**[⬆ 위로가기](#-목차-)**
+
+### UI/UX
+
+- [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/?fbclid=IwAR3WO_sqdIPl5yCxfoA9IONTFZfp9wT4HhCgx-j_4Lc3BPB_zcnyMinwzD4)
+
+**[⬆ 위로가기](#-목차-)**
+
+### 이미지
+
+- [JPG VS PNG? 이미지 파일 형식에 숨겨진 비밀
+  ](http://blog.wishket.com/jpg-vs-png-%ec%9d%b4%eb%af%b8%ec%a7%80-%ed%8c%8c%ec%9d%bc-%ed%98%95%ec%8b%9d%ec%97%90-%ec%88%a8%ea%b2%a8%ec%a7%84-%eb%b9%84%eb%b0%80/?fbclid=IwAR0jKl1QVz2jCR47iiT3BLb9VcE6_TmRznjj6tqKiMbW44pdvS-43XeeDaM)
