@@ -137,6 +137,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html?fbclid=IwAR1O2WTYvRBsLfzJ94sxypPHNJlUGMI49umyHFk-I9SUHkW7PAcl0k-5ZX0)
 - [Conventional Commits
   ](https://www.conventionalcommits.org/ko/v1.0.0/)
+- [deploy 브랜치 전략 활용 방법 - 당근마켓](https://medium.com/daangn/deploy-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-545f278ca878)
 
 **[⬆ 위로가기](#-목차-)**
 
