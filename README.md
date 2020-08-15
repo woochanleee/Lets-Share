@@ -56,6 +56,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [What's new in ECMAScript 2020 (ES11)](https://john015.netlify.app/what-is-new-in-es-11?fbclid=IwAR1F6PtdpmMSkVY3RwlFZj1meqCyIOyHdikfjcBN7qvTKpHNqQuvgx2pTgI)
 - [[번역]Javascript의 실행 콘텍스트와 실행 스택 이해하기](https://kimlog.me/js/2020-01-30-execution-context/?fbclid=IwAR3eDKy2S0YAN0b8wf8SgCAQRkpR7KpN60I5wVnF6r5Z5zNlmzkEFATVuxM)
 - [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/?fbclid=IwAR3f4xsESsRpCoDRkrXV2-4iPs3nHt-zfjxbKdbeCUoco3_Sn90_HpJzOyM)
+- [Async-await는 어떻게 구현하는가
+  ](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
 
 **[⬆ 위로가기](#-목차-)**
 
