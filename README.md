@@ -59,6 +59,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### TypeScript
 
 - [조금 더 안전한 랜덤 숫자(의사 난수) 생성할려고 했던 얘기](https://luckyyowu.tistory.com/406?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR0miVtgDtV8GUE2XOJGAx2qX2CHXJS4dcu5FXIyJZ9wHzd9Xiw_3sU3-Rs)
+- [google/gts - 구글 타입스크립트 스타일 가이드](https://github.com/google/gts?fbclid=IwAR2aV46g_jaclo8jbcpX9wkx0Jw8KuiPYiNI3S-9M8ExabQE3x0DnaggXJc)
 
 ### 클린코드
 
