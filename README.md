@@ -27,6 +27,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [개발 툴](#개발-툴)
 - [네트워크](#네트워크)
   - [통신](#통신)
+  - [프로토콜](#프로토콜)
 
 # 📖 공유 문서 📖
 
@@ -153,3 +154,9 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### 통신
 
 - [Communication(통신) 1. 개념](https://fkkmemi.github.io/communication/comm-1/?fbclid=IwAR2cvLfXWDmtOkfxNYK3JGmbsPtmOnS2hu3wITXC-2OKheyLU9HVRHt5GXA)
+
+**[⬆ 위로가기](#-목차-)**
+
+### 프로토콜
+
+- [HTTP VS HTTPS 차이, 알면 사이트의 레벨이 보인다.](http://blog.wishket.com/http-vs-https-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EB%A9%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EB%A0%88%EB%B2%A8%EC%9D%B4-%EB%B3%B4%EC%9D%B8%EB%8B%A4/?fbclid=IwAR1tdS6Y25Qj2h-vf_RkbFqCNWElEpEn-jFwXzlYPT5oS-Q9m5ayxOBRviM)
