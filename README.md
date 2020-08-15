@@ -46,6 +46,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [2019 JavaScript Rising Stars(2019년 한해 동안의 자바스크립트 인기 프로젝트)](https://risingstars.js.org/2019/en/)
 - [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://www.facebook.com/profile.php?id=100007406411761&lst=100007406411761%3A100007406411761%3A1597493952&sk=grid)
 - [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md?fbclid=IwAR2uz8jGxP9rI45Rf94ZTDoVvaxOgpzewJRU0MraGCQwLCtaT0kp7hD-JS8)
+- [✨♻️ JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif?fbclid=IwAR0ut3necjpUWMjQwKcRU6iYdHifP7BKV1q9mAxUgEuUAuvCXIYRAdA--qc)
 
 **[⬆ 위로가기](#-목차-)**
 
