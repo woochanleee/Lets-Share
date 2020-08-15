@@ -16,6 +16,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [클린코드](#클린코드)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [React](#React)
+  - [Vue.js](#Vue.js)
   - [Javalin](#Javalin)
   - [NW.js](#NW.js)
   - [기타](#기타)
@@ -96,6 +97,13 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [리액트 function component와 class component는 어떻게 다를까?](https://www.hamadevelop.me/reactfunctionclassdiff/?fbclid=IwAR0B4vo0VQ89aHXIho89T2RQg8ShV13crQABKDkRWF6yJEWwBi0TePHmVMo)
 - [리액트 프로젝트에서 타입스크립트 사용하기
   ](https://velog.io/@velopert/series/react-with-typescript)
+
+**[⬆ 위로가기](#-목차-)**
+
+### Vue.js
+
+- [바닥부터 시작하는 Vue 컴포넌트 테스트
+  ](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/?fbclid=IwAR0n1b-oSPqsIR_0I2qaLlFP-8ttHJoERMLq4dCxvpHUyWzI-zTH8HISSx4)
 
 **[⬆ 위로가기](#-목차-)**
 
