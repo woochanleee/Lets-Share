@@ -16,7 +16,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [클린코드](#클린코드)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [React](#React)
-  - [Vue.js](#Vue.js)
+  - [Vue.js](#vuejs)
   - [Javalin](#Javalin)
   - [NW.js](#NW.js)
   - [기타](#기타)
