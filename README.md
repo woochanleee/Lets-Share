@@ -48,6 +48,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md?fbclid=IwAR2uz8jGxP9rI45Rf94ZTDoVvaxOgpzewJRU0MraGCQwLCtaT0kp7hD-JS8)
 - [✨♻️ JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif?fbclid=IwAR0ut3necjpUWMjQwKcRU6iYdHifP7BKV1q9mAxUgEuUAuvCXIYRAdA--qc)
 - [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/?fbclid=IwAR0gWb4A_eE1ldDgM7WqdrsQNWAENQ9UisWOLB73mcKZnsEwa7St3gtnChg)
+- [
+  꼭 알아야 할 자바스크립트 Array 메서드 10가지](https://erokuma.tistory.com/entry/%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Array-method-10%EA%B0%80%EC%A7%80?fbclid=IwAR2m_QeA-_Y-5aEPIlRKUYKNivdpvSnu1QBE7z_4XD4CbmL0IowAdDt_zU8)
 
 **[⬆ 위로가기](#-목차-)**
 
