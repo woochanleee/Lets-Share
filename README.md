@@ -51,6 +51,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [
   꼭 알아야 할 자바스크립트 Array 메서드 10가지](https://erokuma.tistory.com/entry/%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Array-method-10%EA%B0%80%EC%A7%80?fbclid=IwAR2m_QeA-_Y-5aEPIlRKUYKNivdpvSnu1QBE7z_4XD4CbmL0IowAdDt_zU8)
 - [JavaScript로 이번 달 달력 만들기](https://medium.com/duckuism/javascript%EB%A1%9C-%EC%9D%B4%EB%B2%88-%EB%8B%AC-%EB%8B%AC%EB%A0%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1dff5f317459)
+- [What's new in ECMAScript 2020 (ES11)](https://john015.netlify.app/what-is-new-in-es-11?fbclid=IwAR1F6PtdpmMSkVY3RwlFZj1meqCyIOyHdikfjcBN7qvTKpHNqQuvgx2pTgI)
 
 **[⬆ 위로가기](#-목차-)**
 
