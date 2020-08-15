@@ -39,6 +39,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [var은 생략될 수 없습니다](https://overcurried.netlify.app/var%EC%9D%80%20%EC%83%9D%EB%9E%B5%EB%90%A0%20%EC%88%98%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4/?fbclid=IwAR2c6jv2G5Cgv9dhmtMmr2EDe-SahrcF8htIOfqWTK6VrA3mLTrLyU8Ubo4)
 - [자주 사용하는 정규식 패턴](https://uznam8x.tistory.com/entry/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8C%A8%ED%84%B4?fbclid=IwAR2gfucv097S-ktIf6EL4PDPhV2Zjx9A8hNF13lGY08ZBflYb1fKsPtxnr8)
 - [2019 JavaScript Rising Stars(2019년 한해 동안의 자바스크립트 인기 프로젝트)](https://risingstars.js.org/2019/en/)
+- [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://www.facebook.com/profile.php?id=100007406411761&lst=100007406411761%3A100007406411761%3A1597493952&sk=grid)
 
 **[⬆ 위로가기](#-목차-)**
 
