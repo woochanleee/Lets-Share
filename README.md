@@ -47,6 +47,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [웹 개발자의 지옥, 이메일 폼 개발하기](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/index.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR0xpcF6hB8OeDDRA6sbfqbiKDdYbSBD2oeQOucWCz2sYM6ZUbivVsVdcK8)
 - [멋진 HTML 이메일, 문돌이도 할수 있다!](https://brunch.co.kr/@andrewyhc/119?fbclid=IwAR0MNDCCYKyhgCdYntvXCwuOh-SRX7YpHqmzLaDU9OZvLb7pgqT7D9QkMRk)
 - [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/?fbclid=IwAR2yyN21tIzhvQD0jMk_GOVAAdFutgkL4d6HG3Mewdq6xcu1PXB-Nu3CeVk)
+- [되돌아보는 index.html - Part 2](https://so-so.dev/web/index-html-2/?fbclid=IwAR0kleJC_DPYc2oqR3b5LyTeFuahHCpOXsyxycwwquAXenaMrquIEmZWMNU)
 
 **[⬆ 위로가기](#-목차-)**
 
