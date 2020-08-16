@@ -68,6 +68,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/?fbclid=IwAR3f4xsESsRpCoDRkrXV2-4iPs3nHt-zfjxbKdbeCUoco3_Sn90_HpJzOyM)
 - [Async-await는 어떻게 구현하는가
   ](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
+- [[번역] await vs return vs return await](https://perade.github.io/blog/await-vs-return-vs-return-await/?fbclid=IwAR2XeNBAlCBZhOa74-W4IoLExGsW890z-ysIVOmIhadPjG6o0tUG4aHfd-E)
 
 **[⬆ 위로가기](#-목차-)**
 
