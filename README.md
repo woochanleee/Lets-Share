@@ -171,6 +171,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   ](https://uznam8x.tistory.com/m/entry/2020%EB%85%84-%EB%88%88%EC%97%AC%EA%B2%A8-%EB%B3%BC%EB%A7%8C%ED%95%9C-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC?fbclid=IwAR3E4No_xVN_eZdKuQEb1-T5QFwxxaVsnbObmpvbHo2WTp6J25sTcxc2-bc)
 - [프런트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613?fbclid=IwAR3feKy2luLso9Z_GNkBVgmMbniaDM3u6OKCHN2IV2jqK3r4ejjPJU6WEoI)
 - [통신사에 긴급 재난문자 보내기 5G (disaster alert, cell broadcast service)](https://github.com/visualkhh/pro-disasterAlert?fbclid=IwAR3-5Zsq6NmquLkCG9PAZvd9Vt1jtsUbfzqNffrsoqJcj832JkRNI46KiMY)
+- [Web 이나 App 에서 애니메이션을 표시한다면 "Lottie"](https://tagilog.tistory.com/620?fbclid=IwAR34h2Wf73ZrMnf0WS85lyt7yTCWRC1G49Uj8AQQqyCXHAODBRn1S2VSwqM)
 
 **[⬆ 위로가기](#-목차-)**
 
