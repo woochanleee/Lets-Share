@@ -38,6 +38,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [디자인](#디자인)
   - [UI/UX](#UIUX)
   - [이미지](#이미지)
+- [개발 관련](#개발-관련)
 
 # 📖 공유 문서 📖
 
@@ -240,3 +241,9 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [JPG VS PNG? 이미지 파일 형식에 숨겨진 비밀
   ](http://blog.wishket.com/jpg-vs-png-%ec%9d%b4%eb%af%b8%ec%a7%80-%ed%8c%8c%ec%9d%bc-%ed%98%95%ec%8b%9d%ec%97%90-%ec%88%a8%ea%b2%a8%ec%a7%84-%eb%b9%84%eb%b0%80/?fbclid=IwAR0jKl1QVz2jCR47iiT3BLb9VcE6_TmRznjj6tqKiMbW44pdvS-43XeeDaM)
+
+**[⬆ 위로가기](#-목차-)**
+
+## 개발 관련
+
+- [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/?fbclid=IwAR0juqgawtXdZBRkKG9XIJMAPdaBeHFk8beFK-b4_pXijTUPfUm-wKyUa60)
