@@ -19,6 +19,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [React](#React)
   - [Vue.js](#vuejs)
+  - [Spring Boot](#Spring-Boot)
   - [Javalin](#Javalin)
   - [NW.js](#NW.js)
   - [기타](#기타)
@@ -126,6 +127,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [바닥부터 시작하는 Vue 컴포넌트 테스트
   ](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/?fbclid=IwAR0n1b-oSPqsIR_0I2qaLlFP-8ttHJoERMLq4dCxvpHUyWzI-zTH8HISSx4)
 - [Tutorial - Build an Instagram clone with Vue.js and CSSGram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
+
+**[⬆ 위로가기](#-목차-)**
+
+### Spring Boot
+
+- [SpringRestDocs를 SpringBoot에 적용하기](https://taetaetae.github.io/2020/03/08/spring-rest-docs-in-spring-boot/?fbclid=IwAR2XILMRiruQCQCE3MneynCp313PMg3IqYGy8U-mAkL_2SA6tPEw4c0wBPE)
 
 **[⬆ 위로가기](#-목차-)**
 
