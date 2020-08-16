@@ -21,7 +21,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [Vue.js](#vuejs)
   - [Spring Boot](#Spring-Boot)
   - [Javalin](#Javalin)
-  - [NW.js](#NW.js)
+  - [NW.js](#nwjs)
   - [기타](#기타)
 - [테스팅](#테스팅)
   - [Jest](#Jest)
