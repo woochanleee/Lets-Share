@@ -190,6 +190,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 ## 백엔드
 
+- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170?fbclid=IwAR1ZseSEM9NOSgsbP4UMsrwNnhpytBmG5YFDoEUBlHpe5PND-ENYFu93Tyc)
+
 **[⬆ 위로가기](#-목차-)**
 
 ### 개발 툴
