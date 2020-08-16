@@ -259,6 +259,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/?fbclid=IwAR3WO_sqdIPl5yCxfoA9IONTFZfp9wT4HhCgx-j_4Lc3BPB_zcnyMinwzD4)
 - [뉴모피즘 디자인은 어떻게 좀비가 되었나](https://wormwlrm.github.io/2020/03/10/Neumorphism-the-zombie-trend.html?fbclid=IwAR3G9K-sM1prMRtFn_uPddFIkWdUL523NG6R0vopFmdEn3ERVEeANLzErY4)
+- [✏️ 좋은 UI, UX 디자인에 대한 나의 생각](https://taeny.dev/essay/%EC%A2%8B%EC%9D%80-ui,-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%82%98%EC%9D%98-%EC%83%9D%EA%B0%81/?fbclid=IwAR2A4qOiwtXZAntQ49U7j_JfcWqtH2LcqIJtcNgui0WyLh5zZYmuAM5mLr8)
 
 **[⬆ 위로가기](#-목차-)**
 
