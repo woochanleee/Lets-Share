@@ -14,7 +14,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [TypeScript](#TypeScript)
   - [Go](#Go)
   - [클린코드](#클린코드)
-  - [Java](Java)
+  - [Java](#Java)
+  - [python](#python)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [React](#React)
   - [Vue.js](#vuejs)
@@ -98,6 +99,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### Java
 
 - [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367?fbclid=IwAR2ge5ReepzEZOrk6zddLvNo3SuhocfJRc8yZIRfAPYXsdM02FTCTR17qPk)
+
+**[⬆ 위로가기](#-목차-)**
+
+### python
+
+- [[python] 파이썬을 이용하여 이메일(email) 전송 - 파일첨부, HTML 양식 사용](https://blog.naver.com/pjt3591oo/221836832117)
 
 **[⬆ 위로가기](#-목차-)**
 
