@@ -22,6 +22,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [기타](#기타)
 - [테스팅](#테스팅)
   - [Jest](#Jest)
+  - [Spring](#Spring)
 - [버전 관리](#버전-관리)
   - [git](#git)
 - [백엔드](#백엔드)
@@ -136,6 +137,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### Jest
 
 - [Jest로 기본적인 테스트 작성하기](https://www.daleseo.com/jest-basic/?fbclid=IwAR030REt7gl0TAg1Wi9XNqYEROxfpN2zlSG9Uoudcam-weWb6dq2b0Qbw4c)
+
+**[⬆ 위로가기](#-목차-)**
+
+### Spring
+
+- [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/?fbclid=IwAR24SnHgrKc7iSxf2TfNL2s1PW787V6BzWUqLaWJ_Q-sivgzi9TpalAec_o)
 
 **[⬆ 위로가기](#-목차-)**
 
