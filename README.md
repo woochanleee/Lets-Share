@@ -14,6 +14,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [TypeScript](#TypeScript)
   - [Go](#Go)
   - [클린코드](#클린코드)
+  - [Java](Java)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [React](#React)
   - [Vue.js](#vuejs)
@@ -91,6 +92,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR3LuAyLckq18afyOGxdGE25vkjylytxuR7nsxpSyVTwA2rKeo7Fpd6oIe4)
 - [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md?fbclid=IwAR2uz8jGxP9rI45Rf94ZTDoVvaxOgpzewJRU0MraGCQwLCtaT0kp7hD-JS8)
+
+**[⬆ 위로가기](#-목차-)**
+
+### Java
+
+- [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367?fbclid=IwAR2ge5ReepzEZOrk6zddLvNo3SuhocfJRc8yZIRfAPYXsdM02FTCTR17qPk)
 
 **[⬆ 위로가기](#-목차-)**
 
