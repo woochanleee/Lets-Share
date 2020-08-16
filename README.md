@@ -31,6 +31,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [Spring](#Spring)
 - [버전 관리](#버전-관리)
   - [git](#git)
+- [웹 프론트엔드](#웹-프론트엔드)
+  - [이벤트](#이벤트)
 - [백엔드](#백엔드)
   - [개발 툴](#개발-툴)
 - [네트워크](#네트워크)
@@ -223,6 +225,14 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### 개발 툴
 
 - [[서버] 로그인이 필요한 API 똑똑하게 테스트 하는 방법 - postman 활용](https://blog.naver.com/pjt3591oo/221822014861?fbclid=IwAR2ijbBTaFyEk372Qgi8QbPwpzLgbkzwJoeHFrCux76yI1ASrI4yeHyHmmo)
+
+**[⬆ 위로가기](#-목차-)**
+
+## 웹 프론트엔드
+
+### 이벤트
+
+- [스펙 살펴보기: Document Object Model Event](https://jbee.io/web/about-event-in-the-web/?fbclid=IwAR1g6EcK4JdqiuTP-6QC_rXC0afdr_xwTdJVv2Ixs96qdGQ5nSO1bIjzLvc)
 
 **[⬆ 위로가기](#-목차-)**
 
