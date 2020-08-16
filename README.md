@@ -139,6 +139,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### Jest
 
 - [Jest로 기본적인 테스트 작성하기](https://www.daleseo.com/jest-basic/?fbclid=IwAR030REt7gl0TAg1Wi9XNqYEROxfpN2zlSG9Uoudcam-weWb6dq2b0Qbw4c)
+- [API 호출 테스트 코드 작성 방법 (with Typescript)](https://imch.dev/posts/how-to-write-a-test-code-about-api-call-with-typescript?fbclid=IwAR1sXGesb_U74AibBB40C03EofUs4TDbHajMdF_hq1atXd4iUDMSgpSIRFw)
 
 **[⬆ 위로가기](#-목차-)**
 
