@@ -288,3 +288,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/?fbclid=IwAR0juqgawtXdZBRkKG9XIJMAPdaBeHFk8beFK-b4_pXijTUPfUm-wKyUa60)
 - [[코드잇 꿀팁] 개발자라면 꼭 알아야 할 커맨드 꿀팁!
   [출처] [코드잇 꿀팁] 개발자라면 꼭 알아야 할 커맨드 꿀팁!|작성자 코드잇](https://blog.naver.com/codeitofficial/221861721998)
+- [이렇게 기획하면 안 돼요! # 회원가입](https://germweapon.tistory.com/384?fbclid=IwAR1mPhiaz-fwOIlmwgS-tD7gGu8_jRs-VJwm0AEVU9edL0m01c7WBtkx-y4)
