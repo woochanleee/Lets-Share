@@ -59,6 +59,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [멋진 HTML 이메일, 문돌이도 할수 있다!](https://brunch.co.kr/@andrewyhc/119?fbclid=IwAR0MNDCCYKyhgCdYntvXCwuOh-SRX7YpHqmzLaDU9OZvLb7pgqT7D9QkMRk)
 - [A Complete Guide to Data Attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/?fbclid=IwAR2yyN21tIzhvQD0jMk_GOVAAdFutgkL4d6HG3Mewdq6xcu1PXB-Nu3CeVk)
 - [되돌아보는 index.html - Part 2](https://so-so.dev/web/index-html-2/?fbclid=IwAR0kleJC_DPYc2oqR3b5LyTeFuahHCpOXsyxycwwquAXenaMrquIEmZWMNU)
+- [HTML6 is Coming – What’s new in HTML6
+  ](https://morioh.com/p/6d422fc49bd2?fbclid=IwAR1C7xpeOXCwFN3ijmhcRlkppFshkIwRb31o7z4o5YWzwV3jPJMnCGPG0Is)
 
 **[⬆ 위로가기](#-목차-)**
 
