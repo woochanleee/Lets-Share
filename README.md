@@ -66,6 +66,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [Animating CSS Width and Height Without the Squish Effect
   ](https://pqina.nl/blog/animating-width-and-height-without-the-squish-effect/?fbclid=IwAR1MJRYMsch_TkHkW9S9RGyKEhaLYq8lXEmVe7vOioQM2SOXyeoMEZY6wrQ)
+- [CSS의 Grid와 Flex를 이쁘고(?) 빠르게 배울 수 있습니다.](https://ishadeed.com/article/learn-box-alignment/?fbclid=IwAR0vT5AmpXtDmrHN9cgyFPozes_WY8AKAkAvcQfdDgC5Zzy1-fZM4ioyJJE)
 
 **[⬆ 위로가기](#-목차-)**
 
