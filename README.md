@@ -279,6 +279,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [뉴모피즘 디자인은 어떻게 좀비가 되었나](https://wormwlrm.github.io/2020/03/10/Neumorphism-the-zombie-trend.html?fbclid=IwAR3G9K-sM1prMRtFn_uPddFIkWdUL523NG6R0vopFmdEn3ERVEeANLzErY4)
 - [✏️ 좋은 UI, UX 디자인에 대한 나의 생각](https://taeny.dev/essay/%EC%A2%8B%EC%9D%80-ui,-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%82%98%EC%9D%98-%EC%83%9D%EA%B0%81/?fbclid=IwAR2A4qOiwtXZAntQ49U7j_JfcWqtH2LcqIJtcNgui0WyLh5zZYmuAM5mLr8)
 - [Creative 404‑page designs you won't mind getting lost in](https://dribbble.com/stories/2019/12/23/404-page-designs?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR1iyXrT8aBUy0ArvixgmrO2oFtM4tQtGwWPf8Zl-YrJ7hEeJGCTOF4-5WQ)
+- [모바일 앱을 위한 UI/UX 상위 트랜드 2020](https://medium.muz.li/top-ui-ux-design-trends-for-mobile-apps-2020-f32cde592fd0)
 
 **[⬆ 위로가기](#-목차-)**
 
