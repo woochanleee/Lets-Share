@@ -71,6 +71,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [CSS의 Grid와 Flex를 이쁘고(?) 빠르게 배울 수 있습니다.](https://ishadeed.com/article/learn-box-alignment/?fbclid=IwAR0vT5AmpXtDmrHN9cgyFPozes_WY8AKAkAvcQfdDgC5Zzy1-fZM4ioyJJE)
 - [Using Tailwind CSS With React](https://www.youtube.com/watch?v=hRFbqdJKRvQ&feature=youtu.be&fbclid=IwAR21x256nBd_uWNNG6gwXWlgyrzJ6hfxRR-KnfvMNPSy-tIKyGSiaUWCufI)
 - [GrapesJS](https://grapesjs.com/demo.html?fbclid=IwAR1sXa3RuJqWpFIHYTHyswMbuhHW4bQG9BCCWbymhjx82VmwrEYTy6a5vX4)
+- [GrapesJS는 프론트 영역에서 자주 사용되는 컴포넌트를 제공하고, 이를 사용하여 빠르게 레이아웃을 잡을 수 있는 Web Builder Framework입니다. 제작된 결과물은 코드로도 추출할 수 있습니다](https://grapesjs.com/?fbclid=IwAR1Gc77kY6OXWeumb_KA17qIyBIPNZyG-E86aQL5jsKUTOjg59jrXHCwRI4)
 
 **[⬆ 위로가기](#-목차-)**
 
