@@ -145,6 +145,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [리액트 프로젝트에서 타입스크립트 사용하기
   ](https://velog.io/@velopert/series/react-with-typescript)
 - [리액트 개발자가 반드시 이해해야 하는 서버사이드렌더링, 그 중에서도 Re-hydration과 Two-pass rendering 개념을 설명하는 글입니다.](https://joshwcomeau.com/react/the-perils-of-rehydration/?fbclid=IwAR2f_G4G00usc36CumOONqW1_loiLs3zkxqkUvGjkBnRF2bJITnXOOFE9zk)
+- [A deep dive into Pure Component and React.memo(), and why we need them](https://medium.com/takeaway-tech/a-deep-dive-into-pure-component-and-react-memo-and-why-do-we-need-them-ae99dce6a33c)
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -300,4 +301,3 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   [출처] [코드잇 꿀팁] 개발자라면 꼭 알아야 할 커맨드 꿀팁!|작성자 코드잇](https://blog.naver.com/codeitofficial/221861721998)
 - [이렇게 기획하면 안 돼요! # 회원가입](https://germweapon.tistory.com/384?fbclid=IwAR1mPhiaz-fwOIlmwgS-tD7gGu8_jRs-VJwm0AEVU9edL0m01c7WBtkx-y4)
 - [공개적으로 학습하라!](https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC)
-- [SI회사에 입사하기 전 읽으면 좋은 글 - SI의 단점](https://preamtree.tistory.com/133?fbclid=IwAR0OBQKrQa4R9QJrdrI0G9f8__AC90cumzdK3sGOc496Q8-mdEEj4l2Yr_M)
