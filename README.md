@@ -226,6 +226,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   ](https://www.conventionalcommits.org/ko/v1.0.0/)
 - [deploy 브랜치 전략 활용 방법 - 당근마켓](https://medium.com/daangn/deploy-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-545f278ca878)
 - [[Github] ✨ 당신의 Github을 매력적으로 보일 수 있는 방법들](https://geonlee.tistory.com/206?fbclid=IwAR2CGPYH_IBsFaB2swktUwpzdcg7B-i9X2f6ZKqQFc9BWTKdRCE35ZSbQXg)
+- [10 Extraordinary GitHub Repos for All Developers
+  ](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 
 **[⬆ 위로가기](#-목차-)**
 
