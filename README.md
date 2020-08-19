@@ -248,6 +248,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [😋 프로그래머스 2020 Dev-Matching 웹 프론트엔드 개발자(상반기) 후기](<https://taeny.dev/essay/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2020-dev-matching-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90(%EC%83%81%EB%B0%98%EA%B8%B0)-%ED%9B%84%EA%B8%B0/>)
 - [프로그래머스 웹 프론트엔드 데브 매칭 후기](https://imch.dev/posts/2020-programmers-web-frontend-dev-matching?fbclid=IwAR0HNwqYBSjz7hXlZfAvDHS7fRVJq1XN8M07hSNuASOt1roArkwMlsdA0vA)
+- [웹 개발시 자주 사용되는 무료 공공 데이터 API를 정리한 목록입니다. 방대한 분량의 API가 카테고리별로 깔끔하게 정리되어 있습니다.](https://github.com/public-apis/public-apis/blob/master/README.md)
 
 ### 이벤트
 
