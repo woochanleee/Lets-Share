@@ -303,3 +303,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   [출처] [코드잇 꿀팁] 개발자라면 꼭 알아야 할 커맨드 꿀팁!|작성자 코드잇](https://blog.naver.com/codeitofficial/221861721998)
 - [이렇게 기획하면 안 돼요! # 회원가입](https://germweapon.tistory.com/384?fbclid=IwAR1mPhiaz-fwOIlmwgS-tD7gGu8_jRs-VJwm0AEVU9edL0m01c7WBtkx-y4)
 - [공개적으로 학습하라!](https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC)
+- [소규모 스타트업에서 OKR 도입은 어떤 결과를 가져다 주었을까?](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-okr-%EB%8F%84%EC%9E%85%EC%9D%80-%EC%96%B4%EB%96%A4-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%A3%BC%EC%97%88%EC%9D%84%EA%B9%8C-f6bdc26a1352#gaerae.com)
