@@ -91,6 +91,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   ](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
 - [[번역] await vs return vs return await](https://perade.github.io/blog/await-vs-return-vs-return-await/?fbclid=IwAR2XeNBAlCBZhOa74-W4IoLExGsW890z-ysIVOmIhadPjG6o0tUG4aHfd-E)
 - [Understand and Using the DOM like a Pro](https://morioh.com/p/49a28efb5cc3?fbclid=IwAR3W9sEkQxy0YZpOi6sYFXg0HOsYGLiqIKrfhf30legXElRq5DTAIm7mQzY)
+- [JavaScript로 함수형 프로그래밍 배우기 - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&feature=youtu.be&fbclid=IwAR1_3YXl3V6PxNJ7bumr6UmVCxApzR3hL04Gzx9H_AZ3IelHCla5BZXjU3c)
 
 **[⬆ 위로가기](#-목차-)**
 
