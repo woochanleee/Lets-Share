@@ -169,6 +169,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [SpringRestDocs를 SpringBoot에 적용하기](https://taetaetae.github.io/2020/03/08/spring-rest-docs-in-spring-boot/?fbclid=IwAR2XILMRiruQCQCE3MneynCp313PMg3IqYGy8U-mAkL_2SA6tPEw4c0wBPE)
 - [[Spring] Post 요청과 Content-Type의 관계](https://blog.naver.com/writer0713/221853596497)
 - [SpringBoot2로 Rest api 만들기](https://daddyprogrammer.org/post/series/springboot2-make-rest-api/)
+- [CORS 이슈 해결](https://vvshinevv.tistory.com/61?fbclid=IwAR0FujPHfCZ1QEc0cIVdHCpxldSPVxvK-CbS5MLLwI88it_A7wro6vgvZuE)
 
 **[⬆ 위로가기](#-목차-)**
 
