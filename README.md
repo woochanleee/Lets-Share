@@ -72,6 +72,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Using Tailwind CSS With React](https://www.youtube.com/watch?v=hRFbqdJKRvQ&feature=youtu.be&fbclid=IwAR21x256nBd_uWNNG6gwXWlgyrzJ6hfxRR-KnfvMNPSy-tIKyGSiaUWCufI)
 - [GrapesJS](https://grapesjs.com/demo.html?fbclid=IwAR1sXa3RuJqWpFIHYTHyswMbuhHW4bQG9BCCWbymhjx82VmwrEYTy6a5vX4)
 - [GrapesJS는 프론트 영역에서 자주 사용되는 컴포넌트를 제공하고, 이를 사용하여 빠르게 레이아웃을 잡을 수 있는 Web Builder Framework입니다. 제작된 결과물은 코드로도 추출할 수 있습니다](https://grapesjs.com/?fbclid=IwAR1Gc77kY6OXWeumb_KA17qIyBIPNZyG-E86aQL5jsKUTOjg59jrXHCwRI4)
+- [(번역) 세상은 왜 CSS개발자를 필요로 하는가?](https://medium.com/@Baksure/%EB%B2%88%EC%97%AD-%EC%84%B8%EC%83%81%EC%9D%80-%EC%99%9C-css%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%84%EC%9A%94%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B0%80-c3465999301b)
 
 **[⬆ 위로가기](#-목차-)**
 
