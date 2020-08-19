@@ -152,6 +152,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [리액트 개발자가 반드시 이해해야 하는 서버사이드렌더링, 그 중에서도 Re-hydration과 Two-pass rendering 개념을 설명하는 글입니다.](https://joshwcomeau.com/react/the-perils-of-rehydration/?fbclid=IwAR2f_G4G00usc36CumOONqW1_loiLs3zkxqkUvGjkBnRF2bJITnXOOFE9zk)
 - [A deep dive into Pure Component and React.memo(), and why we need them](https://medium.com/takeaway-tech/a-deep-dive-into-pure-component-and-react-memo-and-why-do-we-need-them-ae99dce6a33c)
 - [Simplifying React Forms with Hooks](https://rangle.io/blog/simplifying-controlled-inputs-with-hooks/?fbclid=IwAR0ijOFmU6b6xFuxeneSTGBFo_D02RtHn-_8ULyEfuEKTQv-WHTTVi5r4fM)
+- [컴포넌트 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/?fbclid=IwAR066lp7ya2IQPZh5EgyeR52NwfbU-Fc1GYjxv9ddzEP0tlreP_2_eJAZVk)
 
 **[⬆ 위로가기](#-목차-)**
 
