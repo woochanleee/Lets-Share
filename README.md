@@ -300,3 +300,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   [출처] [코드잇 꿀팁] 개발자라면 꼭 알아야 할 커맨드 꿀팁!|작성자 코드잇](https://blog.naver.com/codeitofficial/221861721998)
 - [이렇게 기획하면 안 돼요! # 회원가입](https://germweapon.tistory.com/384?fbclid=IwAR1mPhiaz-fwOIlmwgS-tD7gGu8_jRs-VJwm0AEVU9edL0m01c7WBtkx-y4)
 - [공개적으로 학습하라!](https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC)
+- [SI회사에 입사하기 전 읽으면 좋은 글 - SI의 단점](https://preamtree.tistory.com/133?fbclid=IwAR0OBQKrQa4R9QJrdrI0G9f8__AC90cumzdK3sGOc496Q8-mdEEj4l2Yr_M)
