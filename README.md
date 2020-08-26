@@ -323,3 +323,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [멀티 쓰레드 프로그램 설계를 위한 8가지 규칙](https://brunch.co.kr/@chris-song/95?fbclid=IwAR0qFoUZ3VEsRCif2qFubhfsOjHPE4EHBEWFcpAm0b6kVB0oYCpqArnOvXE)
 - [10 Best Programming Languages to Learn in 2020 (for Job & Future)](https://hackr.io/blog/best-programming-languages-to-learn-2020-jobs-future?fbclid=IwAR1mVT7GRp4okETnYQNqdN_ZBVqR1yxW1MaKHzix_ZXmFm_fLH9DONSW_FQ)
 - [개발 기술 면접 자료를 정리한 깃허브 저장소입니다. 자료구조, 네트워크, 개발 언어 등 각 분야별로 주요한 내용을 간단하게 소개하고 있습니다.](https://github.com/JaeYeopHan/Interview_Question_for_Beginner?fbclid=IwAR18EFRHGaKmJdoYdNwqdmoljie_gQXBBRGE94ufYw-P3e9BHh76DJUssQs)
+- [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
