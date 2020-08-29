@@ -126,6 +126,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367?fbclid=IwAR2ge5ReepzEZOrk6zddLvNo3SuhocfJRc8yZIRfAPYXsdM02FTCTR17qPk)
 - [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45?fbclid=IwAR2Ab4vmWgGDllJWFWMuRWttf9lh3KdGLcb5ig4YxNsrZXC9pkK-wuzDyys)
+- [[Java]Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/m/114?fbclid=IwAR1s858C_ZZw7vQ2-TTa51besl-W4d9w7rwxTVi7tANbZ6rqKHLYIiJ_udY)
 
 **[⬆ 위로가기](#-목차-)**
 
