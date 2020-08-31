@@ -157,6 +157,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Simplifying React Forms with Hooks](https://rangle.io/blog/simplifying-controlled-inputs-with-hooks/?fbclid=IwAR0ijOFmU6b6xFuxeneSTGBFo_D02RtHn-_8ULyEfuEKTQv-WHTTVi5r4fM)
 - [컴포넌트 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/?fbclid=IwAR066lp7ya2IQPZh5EgyeR52NwfbU-Fc1GYjxv9ddzEP0tlreP_2_eJAZVk)
 - [(번역) React, 인라인 함수, 그리고 성능](https://medium.com/steady-study/%EB%B2%88%EC%97%AD-react-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%ED%95%A8%EC%88%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B1%EB%8A%A5-9aef85552f2b)
+- [[React] 리액트를 처음부터 배워보자. — 03. React 의 Update 스케줄링 과정](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-03-react-%EC%9D%98-reconciliation-%EA%B3%BC%EC%A0%95-2e6fb59c0c2d)
 
 **[⬆ 위로가기](#-목차-)**
 
