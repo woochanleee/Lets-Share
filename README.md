@@ -235,7 +235,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Conventional Commits
   ](https://www.conventionalcommits.org/ko/v1.0.0/)
 - [deploy 브랜치 전략 활용 방법 - 당근마켓](https://medium.com/daangn/deploy-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-545f278ca878)
-- [[Github] ✨ 당신의 Github을 매력적으로 보일 수 있는 방법들](https://geonlee.tistory.com/206?fbclid=IwAR2CGPYH_IBsFaB2swktUwpzdcg7B-i9X2f6ZKqQFc9BWTKdRCE35ZSbQXg)
+- [[Github] ✨ 당신의 Github을 매력적으로 보일 말 있는 방법들](https://geonlee.tistory.com/206?fbclid=IwAR2CGPYH_IBsFaB2swktUwpzdcg7B-i9X2f6ZKqQFc9BWTKdRCE35ZSbQXg)
 - [10 Extraordinary GitHub Repos for All Developers
   ](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 
@@ -307,6 +307,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Creative 404‑page designs you won't mind getting lost in](https://dribbble.com/stories/2019/12/23/404-page-designs?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR1iyXrT8aBUy0ArvixgmrO2oFtM4tQtGwWPf8Zl-YrJ7hEeJGCTOF4-5WQ)
 - [모바일 앱을 위한 UI/UX 상위 트랜드 2020](https://medium.muz.li/top-ui-ux-design-trends-for-mobile-apps-2020-f32cde592fd0)
 - [장바구니 UI 고치기](https://brunch.co.kr/@pliossun/142?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR1WVrqdFNspTe4qiyuotA7T7G2yPOAaI1sTNQcrRO7fhpRVIm-Evcy9SUk)
+- [[UX] 쉬운 말을 써야 한다](https://brunch.co.kr/@sei0/16?fbclid=IwAR2E_2SV0q2fWmQ77bj8Zk_yDkDvxVeHpTQEgnzKvFQU7ZE3H17ghz6iqLk)
 
 **[⬆ 위로가기](#-목차-)**
 
