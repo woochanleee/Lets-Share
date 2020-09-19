@@ -74,7 +74,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [GrapesJS는 프론트 영역에서 자주 사용되는 컴포넌트를 제공하고, 이를 사용하여 빠르게 레이아웃을 잡을 수 있는 Web Builder Framework입니다. 제작된 결과물은 코드로도 추출할 수 있습니다](https://grapesjs.com/?fbclid=IwAR1Gc77kY6OXWeumb_KA17qIyBIPNZyG-E86aQL5jsKUTOjg59jrXHCwRI4)
 - [(번역) 세상은 왜 CSS개발자를 필요로 하는가?](https://medium.com/@Baksure/%EB%B2%88%EC%97%AD-%EC%84%B8%EC%83%81%EC%9D%80-%EC%99%9C-css%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%84%EC%9A%94%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B0%80-c3465999301b)
 - [웹 페이지 레이아웃 및 패턴 91가지가 잘 분류되어 있으며 CSS 코드도 얻을 수 있습니다.](https://csslayout.io/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR0Db5F7Itg3i0Yh3I1lhmDZGl60FPmEvs0OEP6gwh17sxQouPTRpFY5ke8)
-
+- [FLEXBOX FROGGY(FLEXBOX를 게임을 통해 배울 수 있는 사이트)](https://flexboxfroggy.com/#ko)
 **[⬆ 위로가기](#-목차-)**
 
 ### JavaScript
