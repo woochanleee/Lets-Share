@@ -99,6 +99,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Understand and Using the DOM like a Pro](https://morioh.com/p/49a28efb5cc3?fbclid=IwAR3W9sEkQxy0YZpOi6sYFXg0HOsYGLiqIKrfhf30legXElRq5DTAIm7mQzY)
 - [JavaScript로 함수형 프로그래밍 배우기 - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&feature=youtu.be&fbclid=IwAR1_3YXl3V6PxNJ7bumr6UmVCxApzR3hL04Gzx9H_AZ3IelHCla5BZXjU3c)
 - [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409/?fbclid=IwAR0v9Tot9ruApRJVzsxWjp1KE25HOk9hB7ctccwjJZ3rXo153fBulDfTm5s)
+- [map, reduce 함수에서 async/await 쓰기](https://velog.io/@minsangk/2019-09-06-0209-%EC%9E%91%EC%84%B1%EB%90%A8-eik06xy8mm)
 
 **[⬆ 위로가기](#-목차-)**
 
