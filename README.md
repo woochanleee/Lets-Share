@@ -101,6 +101,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409/?fbclid=IwAR0v9Tot9ruApRJVzsxWjp1KE25HOk9hB7ctccwjJZ3rXo153fBulDfTm5s)
 - [map, reduce 함수에서 async/await 쓰기](https://velog.io/@minsangk/2019-09-06-0209-%EC%9E%91%EC%84%B1%EB%90%A8-eik06xy8mm)
 - [프론트 관련 지식 모음](https://ui.toast.com/fe-guide/ko/)
+- [JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
 
 
 **[⬆ 위로가기](#-목차-)**
