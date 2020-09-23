@@ -102,6 +102,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [map, reduce 함수에서 async/await 쓰기](https://velog.io/@minsangk/2019-09-06-0209-%EC%9E%91%EC%84%B1%EB%90%A8-eik06xy8mm)
 - [프론트 관련 지식 모음](https://ui.toast.com/fe-guide/ko/)
 - [JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
+- [async/await의 병목 현상 해결하기](https://jaeheon.kr/161)
 
 
 **[⬆ 위로가기](#-목차-)**
@@ -164,6 +165,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [(번역) React, 인라인 함수, 그리고 성능](https://medium.com/steady-study/%EB%B2%88%EC%97%AD-react-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%ED%95%A8%EC%88%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B1%EB%8A%A5-9aef85552f2b)
 - [[React] 리액트를 처음부터 배워보자. — 03. React 의 Update 스케줄링 과정](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-03-react-%EC%9D%98-reconciliation-%EA%B3%BC%EC%A0%95-2e6fb59c0c2d)
 - [Blazor 웹 애플리케이션에 React UI 컴포넌트 끼얹기](https://blog.aliencube.org/ko/2020/06/03/adding-react-components-to-blazor-webassembly-app/?fbclid=IwAR0r2r81WGCcx1JXyO1Mn7DYllw4li27WDh3i4vsc7wK2mX1p_nYWDvlJKo)
+- [Javascript Closure로 useState Hook 만들기](https://medium.com/humanscape-tech/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%A1%9C%EC%A0%80%EB%A1%9C-hooks%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-3ba74e11fda7)
 
 **[⬆ 위로가기](#-목차-)**
 
