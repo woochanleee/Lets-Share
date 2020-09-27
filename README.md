@@ -294,6 +294,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [HTTP VS HTTPS 차이, 알면 사이트의 레벨이 보인다.](http://blog.wishket.com/http-vs-https-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EB%A9%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EB%A0%88%EB%B2%A8%EC%9D%B4-%EB%B3%B4%EC%9D%B8%EB%8B%A4/?fbclid=IwAR1tdS6Y25Qj2h-vf_RkbFqCNWElEpEn-jFwXzlYPT5oS-Q9m5ayxOBRviM)
 - [프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API](https://evan-moon.github.io/2020/04/07/about-restful-api/?fbclid=IwAR3aIUFwD0chmySMxTlOZsBigq_cFltQIK25fYzJkprVUpAhAuDy1tIE-20)
 - [HTTP 는 Stateless 한데 로그인은 어떻게 구현할 수 있을까? (세션/쿠키를 이용한 인증)](https://hyuntaeknote.tistory.com/m/3?fbclid=IwAR1Bi1dE6wjn4MjSm38RcEH6zfGV8ypT3mdxSD4BWTHSxz7eEOHyc-ZTgj8)
+- [TCP/IP 관련 내용 정리](https://medium.com/@rlatla626/tcp-ip-%EC%A0%95%EB%A6%AC-204e8a986d98)
 
 **[⬆ 위로가기](#-목차-)**
 
