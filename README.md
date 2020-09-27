@@ -328,6 +328,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [모바일 앱을 위한 UI/UX 상위 트랜드 2020](https://medium.muz.li/top-ui-ux-design-trends-for-mobile-apps-2020-f32cde592fd0)
 - [장바구니 UI 고치기](https://brunch.co.kr/@pliossun/142?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR1WVrqdFNspTe4qiyuotA7T7G2yPOAaI1sTNQcrRO7fhpRVIm-Evcy9SUk)
 - [[UX] 쉬운 말을 써야 한다](https://brunch.co.kr/@sei0/16?fbclid=IwAR2E_2SV0q2fWmQ77bj8Zk_yDkDvxVeHpTQEgnzKvFQU7ZE3H17ghz6iqLk)
+- [웹 디자이너를 위한, 웹 스타일 가이드 지침서](http://styleguide.co.kr/)
 
 **[⬆ 위로가기](#-목차-)**
 
