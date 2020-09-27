@@ -284,6 +284,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### 통신
 
 - [Communication(통신) 1. 개념](https://fkkmemi.github.io/communication/comm-1/?fbclid=IwAR2cvLfXWDmtOkfxNYK3JGmbsPtmOnS2hu3wITXC-2OKheyLU9HVRHt5GXA)
+- [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/?fbclid=IwAR15wQ4r_CQ9S7FY-feES9ERSjcA_rqmH29VXVdY_IKuWkkmE9Zn9OTYVeA)
 
 **[⬆ 위로가기](#-목차-)**
 
