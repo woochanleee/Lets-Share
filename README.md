@@ -249,6 +249,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[Github] ✨ 당신의 Github을 매력적으로 보일 말 있는 방법들](https://geonlee.tistory.com/206?fbclid=IwAR2CGPYH_IBsFaB2swktUwpzdcg7B-i9X2f6ZKqQFc9BWTKdRCE35ZSbQXg)
 - [10 Extraordinary GitHub Repos for All Developers
   ](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
+- [[코드잇] git reset의 3가지 옵션 제대로 이해하기](https://blog.naver.com/codeitofficial/221950118036)
 
 **[⬆ 위로가기](#-목차-)**
 
