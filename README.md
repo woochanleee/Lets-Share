@@ -107,6 +107,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
 - [async/await의 병목 현상 해결하기](https://jaeheon.kr/161)
 - [[Javascript] 자바스크립트의 호출 스택과 이벤트 루프](https://iamsjy17.github.io/javascript/2019/07/20/how-to-works-js.html)
+- [await의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161)
 
 **[⬆ 위로가기](#-목차-)**
 
