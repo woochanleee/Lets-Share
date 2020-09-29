@@ -286,6 +286,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### 이벤트
 
 - [스펙 살펴보기: Document Object Model Event](https://jbee.io/web/about-event-in-the-web/?fbclid=IwAR1g6EcK4JdqiuTP-6QC_rXC0afdr_xwTdJVv2Ixs96qdGQ5nSO1bIjzLvc)
+- [이벤트 기초](https://ko.javascript.info/events)
 
 **[⬆ 위로가기](#-목차-)**
 
