@@ -261,6 +261,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [10 Extraordinary GitHub Repos for All Developers
   ](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 - [[코드잇] git reset의 3가지 옵션 제대로 이해하기](https://blog.naver.com/codeitofficial/221950118036)
+- [[코드잇] git push -u origin master의 비밀](https://blog.naver.com/codeitofficial/221946628621)
 
 **[⬆ 위로가기](#-목차-)**
 
