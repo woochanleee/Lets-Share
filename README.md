@@ -372,3 +372,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [소셜로그인, 통합이 어려우면 한 개만 사용하게 만든다](https://brunch.co.kr/@rainofflowers/123)
 - [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
 - [🙈[Kafka] 기본 개념잡기🐵](https://victorydntmd.tistory.com/344)
+- [Slack Slash Command를 통해 AWS 서버 스케줄링하기 - 1. Intro](https://aws-diary.tistory.com/107)
