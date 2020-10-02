@@ -174,6 +174,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[React] 리액트를 처음부터 배워보자. — 03. React 의 Update 스케줄링 과정](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-03-react-%EC%9D%98-reconciliation-%EA%B3%BC%EC%A0%95-2e6fb59c0c2d)
 - [Blazor 웹 애플리케이션에 React UI 컴포넌트 끼얹기](https://blog.aliencube.org/ko/2020/06/03/adding-react-components-to-blazor-webassembly-app/?fbclid=IwAR0r2r81WGCcx1JXyO1Mn7DYllw4li27WDh3i4vsc7wK2mX1p_nYWDvlJKo)
 - [Javascript Closure로 useState Hook 만들기](https://medium.com/humanscape-tech/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%A1%9C%EC%A0%80%EB%A1%9C-hooks%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-3ba74e11fda7)
+- [Asynchronous Functional Programming Using React Hooks](https://medium.com/capbase-engineering/asynchronous-functional-programming-using-react-hooks-e51a748e6869)
 
 **[⬆ 위로가기](#-목차-)**
 
