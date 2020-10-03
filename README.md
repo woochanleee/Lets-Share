@@ -191,6 +191,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [Learn the Svelte JavaScript Framework - Full Course
   ](https://www.youtube.com/watch?v=ujbE0mzX-CU)
+- [svelte 공식 사이트](https://svelte.dev/)
 
 **[⬆ 위로가기](#-목차-)**
 
