@@ -177,7 +177,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Javascript Closure로 useState Hook 만들기](https://medium.com/humanscape-tech/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%A1%9C%EC%A0%80%EB%A1%9C-hooks%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-3ba74e11fda7)
 - [Asynchronous Functional Programming Using React Hooks](https://medium.com/capbase-engineering/asynchronous-functional-programming-using-react-hooks-e51a748e6869)
 - [Five awesome React packages to check out](https://medium.com/javascript-in-plain-english/five-awesome-react-packages-to-check-out-1ee42f2c19f7)
-**[⬆ 위로가기](#-목차-)**
+  **[⬆ 위로가기](#-목차-)**
 
 ### Vue.js
 
@@ -378,3 +378,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
 - [🙈[Kafka] 기본 개념잡기🐵](https://victorydntmd.tistory.com/344)
 - [Slack Slash Command를 통해 AWS 서버 스케줄링하기 - 1. Intro](https://aws-diary.tistory.com/107)
+- [해외개발자 \_ 진짜 개발자가 하는 일 1](https://medium.com/@tpdms2779/%ED%95%B4%EC%99%B8%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC-1-59e96ad061e3)
