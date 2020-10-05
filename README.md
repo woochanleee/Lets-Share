@@ -78,6 +78,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [웹 페이지 레이아웃 및 패턴 91가지가 잘 분류되어 있으며 CSS 코드도 얻을 수 있습니다.](https://csslayout.io/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR0Db5F7Itg3i0Yh3I1lhmDZGl60FPmEvs0OEP6gwh17sxQouPTRpFY5ke8)
 - [FLEXBOX FROGGY(FLEXBOX를 게임을 통해 배울 수 있는 사이트)](https://flexboxfroggy.com/#ko)
 - [How to Create Pure CSS Games](https://medium.com/cssclass-com/how-to-create-pure-css-games-2a29c777bf4)
+- [storybook 잘 활용하기](https://ideveloper2.dev/blog/2020-04-25--storybook-%EC%9E%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 **[⬆ 위로가기](#-목차-)**
 
