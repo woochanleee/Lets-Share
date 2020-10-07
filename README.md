@@ -112,6 +112,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[결국 JavaScript] - 1. 실행 컨텍스트(Execution Context)](https://velog.io/@dipsiiiiiiiiii/%EA%B2%B0%EA%B5%AD-JavaScript-1.-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8Execution-Context)
 - [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 - [falsy & truthy](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/falsy-truthy.md)
+- [어중간히 알면 안되는 JS 개념 #1 this](https://velog.io/@wlsdud2194/%EC%96%B4%EC%A4%91%EA%B0%84%ED%9E%88-%EC%95%8C%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-JS-%EA%B0%9C%EB%85%90-1-this)
+- [마이크로소프트에서 만든 Javascript 초급자를 위한 강의](https://m.youtube.com/watch?index=1&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2&v=_EDM5aPVLmo)
 
 **[⬆ 위로가기](#-목차-)**
 
