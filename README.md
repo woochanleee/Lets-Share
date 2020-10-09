@@ -386,3 +386,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [🙈[Kafka] 기본 개념잡기🐵](https://victorydntmd.tistory.com/344)
 - [Slack Slash Command를 통해 AWS 서버 스케줄링하기 - 1. Intro](https://aws-diary.tistory.com/107)
 - [해외개발자 \_ 진짜 개발자가 하는 일 1](https://medium.com/@tpdms2779/%ED%95%B4%EC%99%B8%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC-1-59e96ad061e3)
+- [사용성, 그 이상: 설득형 패턴 만들기](https://brunch.co.kr/@byeon/9)
