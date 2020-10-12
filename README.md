@@ -36,6 +36,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [이벤트](#이벤트)
 - [백엔드](#백엔드)
   - [개발 툴](#개발-툴)
+- [데이터베이스](#데이터베이스)
+  - [mongoDB](#mongoDB)
 - [네트워크](#네트워크)
   - [통신](#통신)
   - [프로토콜](#프로토콜)
@@ -281,6 +283,16 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a#gaerae.com)
 - [MariaDB SkySQL Demo: Setting Up A Service
   ](https://www.youtube.com/watch?v=0QVJBCJS9nE)
+
+**[⬆ 위로가기](#-목차-)**
+
+## 데이터베이스
+
+**[⬆ 위로가기](#-목차-)**
+
+### mongoDB
+
+- [MongoDB ReplicaSet 이란 ?](https://blog.naver.com/kjun612/221924296752)
 
 **[⬆ 위로가기](#-목차-)**
 
