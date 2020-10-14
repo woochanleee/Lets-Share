@@ -26,6 +26,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [Node.js](#nodejs)
   - [Javalin](#Javalin)
   - [NW.js](#nwjs)
+  - [Next.js](#nextjs)
   - [기타](#기타)
 - [테스팅](#테스팅)
   - [Jest](#Jest)
@@ -226,6 +227,13 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### NW.js
 
 - [NW.js](https://github.com/nwjs/nw.js)
+
+**[⬆ 위로가기](#-목차-)**
+
+### Next.js
+
+- [알고리즘 시각화 React 웹 앱 개발하기
+](https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
 
 **[⬆ 위로가기](#-목차-)**
 
