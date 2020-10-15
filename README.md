@@ -126,6 +126,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [google/gts - 구글 타입스크립트 스타일 가이드](https://github.com/google/gts?fbclid=IwAR2aV46g_jaclo8jbcpX9wkx0Jw8KuiPYiNI3S-9M8ExabQE3x0DnaggXJc)
 - [TypeScript를 활용한 서비스개발](https://medium.com/daangn/typescript%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C-73877a741dbc)
 - [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
+- [자바스크립트 개발자를 위한 타입스크립트
+](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 
 **[⬆ 위로가기](#-목차-)**
 
