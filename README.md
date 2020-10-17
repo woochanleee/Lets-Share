@@ -117,6 +117,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [falsy & truthy](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/falsy-truthy.md)
 - [어중간히 알면 안되는 JS 개념 #1 this](https://velog.io/@wlsdud2194/%EC%96%B4%EC%A4%91%EA%B0%84%ED%9E%88-%EC%95%8C%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-JS-%EA%B0%9C%EB%85%90-1-this)
 - [마이크로소프트에서 만든 Javascript 초급자를 위한 강의](https://m.youtube.com/watch?index=1&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2&v=_EDM5aPVLmo)
+- [Event Loop, Web API, Task Queue](https://velog.io/@mgm-dev/Event-Loop-Web-API-Task-Queue)
 
 **[⬆ 위로가기](#-목차-)**
 
