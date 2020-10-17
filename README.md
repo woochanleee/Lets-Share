@@ -127,7 +127,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [TypeScript를 활용한 서비스개발](https://medium.com/daangn/typescript%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C-73877a741dbc)
 - [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
 - [자바스크립트 개발자를 위한 타입스크립트
-](https://ahnheejong.gitbook.io/ts-for-jsdev/)
+  ](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -186,6 +186,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Asynchronous Functional Programming Using React Hooks](https://medium.com/capbase-engineering/asynchronous-functional-programming-using-react-hooks-e51a748e6869)
 - [Five awesome React packages to check out](https://medium.com/javascript-in-plain-english/five-awesome-react-packages-to-check-out-1ee42f2c19f7)
 - [Formik: React Forms Tutorial with Yup and Material](https://dev.to/bmvantunes/formik-react-forms-tutorial-with-yup-and-material-52ch)
+- [[Reactjs] AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -235,7 +236,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### Next.js
 
 - [알고리즘 시각화 React 웹 앱 개발하기
-](https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
+  ](https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -283,7 +284,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[코드잇] git reset의 3가지 옵션 제대로 이해하기](https://blog.naver.com/codeitofficial/221950118036)
 - [[코드잇] git push -u origin master의 비밀](https://blog.naver.com/codeitofficial/221946628621)
 - [GitHub 환경에서의 실전 Git 레시피
-](https://meetup.toast.com/posts/116)
+  ](https://meetup.toast.com/posts/116)
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -413,5 +414,5 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [사용성, 그 이상: 설득형 패턴 만들기](https://brunch.co.kr/@byeon/9)
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 - [HITS!를 이용하여 Jekyll 블로그에 조회수 배지 달기
-](https://ryanking13.github.io/2020/03/09/jekyll-views-count-badge.html)
+  ](https://ryanking13.github.io/2020/03/09/jekyll-views-count-badge.html)
 - [이직기록 0. Intro](https://jbee.io/career/2020-turnover-0/)
