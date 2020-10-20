@@ -420,4 +420,5 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 - [HITS!를 이용하여 Jekyll 블로그에 조회수 배지 달기
   ](https://ryanking13.github.io/2020/03/09/jekyll-views-count-badge.html)
-- [이직기록 0. Intro](https://jbee.io/career/2020-turnover-0/)
+- [이직기록 0. Intro](https://jbee.io/career/2020-turnover-0/) -[Todo list 만들기는 이제 그만
+  ](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
