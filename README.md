@@ -161,6 +161,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [[python] 파이썬을 이용하여 이메일(email) 전송 - 파일첨부, HTML 양식 사용](https://blog.naver.com/pjt3591oo/221836832117)
 - [파이썬 개발이 순조롭다는 것을 알려주는 8가지 신호](http://www.itworld.co.kr/news/150468)
+- [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 
 **[⬆ 위로가기](#-목차-)**
 
