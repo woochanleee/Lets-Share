@@ -290,8 +290,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   ](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 - [[코드잇] git reset의 3가지 옵션 제대로 이해하기](https://blog.naver.com/codeitofficial/221950118036)
 - [[코드잇] git push -u origin master의 비밀](https://blog.naver.com/codeitofficial/221946628621)
-- [GitHub 환경에서의 실전 Git 레시피
-  ](https://meetup.toast.com/posts/116)
+- [GitHub 환경에서의 실전 Git 레시피](https://meetup.toast.com/posts/116)
+- [🌳🚀 CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 
 **[⬆ 위로가기](#-목차-)**
 
