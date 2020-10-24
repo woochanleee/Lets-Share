@@ -218,6 +218,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[Spring] Post 요청과 Content-Type의 관계](https://blog.naver.com/writer0713/221853596497)
 - [SpringBoot2로 Rest api 만들기](https://daddyprogrammer.org/post/series/springboot2-make-rest-api/)
 - [CORS 이슈 해결](https://vvshinevv.tistory.com/61?fbclid=IwAR0FujPHfCZ1QEc0cIVdHCpxldSPVxvK-CbS5MLLwI88it_A7wro6vgvZuE)
+- [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
 
 **[⬆ 위로가기](#-목차-)**
 
