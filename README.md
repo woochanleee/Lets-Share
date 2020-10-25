@@ -145,6 +145,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/?fbclid=IwAR3LuAyLckq18afyOGxdGE25vkjylytxuR7nsxpSyVTwA2rKeo7Fpd6oIe4)
 - [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md?fbclid=IwAR2uz8jGxP9rI45Rf94ZTDoVvaxOgpzewJRU0MraGCQwLCtaT0kp7hD-JS8)
 - [커버 불가능한 코드](https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/?fbclid=IwAR2HaiRSyqD6ylYn0o1gOpVrv0B2d5NjNDIEXGVJAGfGEJAFqGZ2knEu3A4)
+- [clen-code-typescript](https://github.com/738/clean-code-typescript)
 
 **[⬆ 위로가기](#-목차-)**
 
