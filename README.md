@@ -82,6 +82,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [FLEXBOX FROGGY(FLEXBOX를 게임을 통해 배울 수 있는 사이트)](https://flexboxfroggy.com/#ko)
 - [How to Create Pure CSS Games](https://medium.com/cssclass-com/how-to-create-pure-css-games-2a29c777bf4)
 - [storybook 잘 활용하기](https://ideveloper2.dev/blog/2020-04-25--storybook-%EC%9E%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [TailWind CSS 알아보기
+](https://velog.io/@jinsu2504/tailwind-1)
 
 **[⬆ 위로가기](#-목차-)**
 
