@@ -429,3 +429,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [이직기록 0. Intro](https://jbee.io/career/2020-turnover-0/) -[Todo list 만들기는 이제 그만
   ](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
 - [문서 번역으로 구글 컨트리뷰터가 되어보자](https://wormwlrm.github.io/2020/04/19/Contribute-to-Google-by-translating-document.html)
+- [우리는 코드 리뷰를 잘하고 있을까요?](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
