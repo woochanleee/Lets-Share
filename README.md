@@ -196,6 +196,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Five awesome React packages to check out](https://medium.com/javascript-in-plain-english/five-awesome-react-packages-to-check-out-1ee42f2c19f7)
 - [Formik: React Forms Tutorial with Yup and Material](https://dev.to/bmvantunes/formik-react-forms-tutorial-with-yup-and-material-52ch)
 - [[Reactjs] AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
+- [바보같이 최적화 하는 법 (React.memo, 인라인)](https://www.notion.so/React-memo-1dfeb0c8a4fe4a45acf83b3602a6cf34)
 
 **[⬆ 위로가기](#-목차-)**
 
