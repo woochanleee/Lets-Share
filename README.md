@@ -197,6 +197,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Formik: React Forms Tutorial with Yup and Material](https://dev.to/bmvantunes/formik-react-forms-tutorial-with-yup-and-material-52ch)
 - [[Reactjs] AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
 - [바보같이 최적화 하는 법 (React.memo, 인라인)](https://www.notion.so/React-memo-1dfeb0c8a4fe4a45acf83b3602a6cf34)
+- [React Hooks + Mobx 예제 - 슈퍼마켓 구현하기 -](https://hyeok999.github.io/2020/04/16/mobx-hooks-market/)
 
 **[⬆ 위로가기](#-목차-)**
 
