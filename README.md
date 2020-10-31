@@ -334,6 +334,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [알아두면 쓸데있는 VSCode 노하우](https://jeonghwan-kim.github.io/dev/2020/04/05/vscode.html?fbclid=IwAR3fGbhC_kZ7mIhwOZK87ESI1hA5n3rRAZJNVft7blp65805MHB-SCzd-yI)
 - [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id?fbclid=IwAR09HWkslOsVCheYy4VqceJbScsd9LEKKulMQKKUvfVHb1a7ikOwlxpdp3o)
 - [SameSite의 효과는 굉장했다 / SameSite란 무엇일까 / CSRF 방어](https://www.youtube.com/watch?v=Q3YuKipzPbs)
+- [10 security tips for frontend developers](https://hackernoon.com/10-security-tips-for-frontend-developers-oi4624ld)
 
 ### 이벤트
 
