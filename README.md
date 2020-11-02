@@ -439,3 +439,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [우리는 코드 리뷰를 잘하고 있을까요?](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
+- [코드로 자음과 모음을 분리하기](https://www.notion.so/3c40c025b9bc474da00add82f9c301ad)
