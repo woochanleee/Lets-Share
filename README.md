@@ -121,6 +121,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [마이크로소프트에서 만든 Javascript 초급자를 위한 강의](https://m.youtube.com/watch?index=1&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2&v=_EDM5aPVLmo)
 - [Event Loop, Web API, Task Queue](https://velog.io/@mgm-dev/Event-Loop-Web-API-Task-Queue)
 - [script의 위치와 속성](https://velog.io/@gga01075/script%EC%9D%98-%EC%9C%84%EC%B9%98%EC%99%80-%EC%86%8D%EC%84%B1)
+- [자바스크립트 개발자를 위한 AST(번역)](https://gyujincho.github.io/2018-06-19/AST-for-JS-devlopers)
 
 **[⬆ 위로가기](#-목차-)**
 
