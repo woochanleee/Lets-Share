@@ -201,6 +201,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [React Hooks + Mobx 예제 - 슈퍼마켓 구현하기 -](https://hyeok999.github.io/2020/04/16/mobx-hooks-market/)
 - [6 Practical Applications for useRef](https://medium.com/frontend-digest/6-practical-applications-for-useref-2f5414f4ac68)
 - [Recoil — Another React State Management Library?](https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d2b)
+- [Full Stack React & Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)
 
 **[⬆ 위로가기](#-목차-)**
 
