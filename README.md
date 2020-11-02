@@ -83,7 +83,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [How to Create Pure CSS Games](https://medium.com/cssclass-com/how-to-create-pure-css-games-2a29c777bf4)
 - [storybook 잘 활용하기](https://ideveloper2.dev/blog/2020-04-25--storybook-%EC%9E%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [TailWind CSS 알아보기
-](https://velog.io/@jinsu2504/tailwind-1)
+  ](https://velog.io/@jinsu2504/tailwind-1)
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -337,6 +337,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id?fbclid=IwAR09HWkslOsVCheYy4VqceJbScsd9LEKKulMQKKUvfVHb1a7ikOwlxpdp3o)
 - [SameSite의 효과는 굉장했다 / SameSite란 무엇일까 / CSRF 방어](https://www.youtube.com/watch?v=Q3YuKipzPbs)
 - [10 security tips for frontend developers](https://hackernoon.com/10-security-tips-for-frontend-developers-oi4624ld)
+- [NPM 패키지 다운로드 트렌드를 확인할 수 있는 사이트](https://www.npmtrends.com/react-vs-vue)
 
 ### 이벤트
 
