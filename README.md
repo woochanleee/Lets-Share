@@ -340,6 +340,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [SameSite의 효과는 굉장했다 / SameSite란 무엇일까 / CSRF 방어](https://www.youtube.com/watch?v=Q3YuKipzPbs)
 - [10 security tips for frontend developers](https://hackernoon.com/10-security-tips-for-frontend-developers-oi4624ld)
 - [NPM 패키지 다운로드 트렌드를 확인할 수 있는 사이트](https://www.npmtrends.com/react-vs-vue)
+- [웹의 렌더링 방식의 차이점을 애니메이션으로 쉽게 설명해주는 내용입니다.](https://dev.to/kefranabg/demystifying-ssr-csr-universal-and-static-rendering-with-animations-m7d)
 
 ### 이벤트
 
