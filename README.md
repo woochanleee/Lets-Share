@@ -159,6 +159,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45?fbclid=IwAR2Ab4vmWgGDllJWFWMuRWttf9lh3KdGLcb5ig4YxNsrZXC9pkK-wuzDyys)
 - [[Java]Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/m/114?fbclid=IwAR1s858C_ZZw7vQ2-TTa51besl-W4d9w7rwxTVi7tANbZ6rqKHLYIiJ_udY)
 - [자바 - OOM 메모리 릭 찾기 이론편 ( Java - finding memory leak of OOM #1 )](https://m.blog.naver.com/2feelus/220765728530)
+- [Java의 String.valueOf 메서드의 동작과 lombok의 ToString 어노테이션의 스택 오버플로우](https://codingdog.tistory.com/entry/Java%EC%9D%98-StringvalueOf-%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98-%EB%8F%99%EC%9E%91%EA%B3%BC-lombok%EC%9D%98-ToString-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%98-%EC%8A%A4%ED%83%9D-%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0)
 
 **[⬆ 위로가기](#-목차-)**
 
