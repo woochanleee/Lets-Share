@@ -454,3 +454,5 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [코드로 자음과 모음을 분리하기](https://www.notion.so/3c40c025b9bc474da00add82f9c301ad)
 - [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
 - [GRASP (object-oriented design)](https://velog.io/@lsb156/GRASP-object-oriented-design)
+- [하나의 생태계는 어떻게 갈라파고스화 되어 가는가?](https://seokjun.kim/how-to-make-galapagos/)
+
