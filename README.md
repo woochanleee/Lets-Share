@@ -214,6 +214,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Tutorial - Build an Instagram clone with Vue.js and CSSGram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
 - [v-model의 동작 원리와 활용 방법](https://joshua1988.github.io/web-development/vuejs/v-model-usage/)
 - [리액트 공식문서 파헤치기](https://github.com/sangheon-kim/React-docs-analyze)
+- [Docker Container로 Nuxt.js(SSR, Static Site) 띄어보기(feat. production)
+  [출처] Docker Container로 Nuxt.js(SSR, Static Site) 띄어보기(feat. production)|작성자 맨체스터시티](https://blog.naver.com/minhyupp/222137233337)
 
 **[⬆ 위로가기](#-목차-)**
 
