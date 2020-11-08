@@ -123,6 +123,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [script의 위치와 속성](https://velog.io/@gga01075/script%EC%9D%98-%EC%9C%84%EC%B9%98%EC%99%80-%EC%86%8D%EC%84%B1)
 - [자바스크립트 개발자를 위한 AST(번역)](https://gyujincho.github.io/2018-06-19/AST-for-JS-devlopers)
 - [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409/)
+- [자바스크립트 웹개발용 특화 코딩 테스트](https://kstblog.aww.kr/4s66Q/ug97F)
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -455,4 +456,3 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
 - [GRASP (object-oriented design)](https://velog.io/@lsb156/GRASP-object-oriented-design)
 - [하나의 생태계는 어떻게 갈라파고스화 되어 가는가?](https://seokjun.kim/how-to-make-galapagos/)
-
