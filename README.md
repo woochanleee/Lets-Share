@@ -461,3 +461,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [하나의 생태계는 어떻게 갈라파고스화 되어 가는가?](https://seokjun.kim/how-to-make-galapagos/)
 - [개발자는 왜 40살에 치킨집을 차리게 될까?](https://blog.f-lab.kr/2020/11/09/why-fry-chicken.html)
 - [회사에서 알려주지 않는 이메일 쓰는 법](https://cafe.naver.com/bebettergirls/1669049)
+- [브라우저는 어떻게 동작할까?](https://velog.io/@bbumjun/how-browser-works)
