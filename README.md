@@ -466,3 +466,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [개발자는 왜 40살에 치킨집을 차리게 될까?](https://blog.f-lab.kr/2020/11/09/why-fry-chicken.html)
 - [회사에서 알려주지 않는 이메일 쓰는 법](https://cafe.naver.com/bebettergirls/1669049)
 - [브라우저는 어떻게 동작할까?](https://velog.io/@bbumjun/how-browser-works)
+- [공개 구글 스프레드시트 문서를 이용하여 내가 원하는 형태의 mock API 응답받기](https://fureweb-com.github.io/blog/2020/11/17/how-to-receive-mock-api-response-in-the-form-i-want-using-a-public-google-spreadsheet-document.html)
