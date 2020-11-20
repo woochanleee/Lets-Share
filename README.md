@@ -359,6 +359,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [JAM Stack 이야기](https://jbee.io/web/jam-stack/)
 - [같은 이미지인데 미리보기가 이상하게 나온다고요?](https://hiddenest.medium.com/%EA%B0%99%EC%9D%80-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%B8%EB%8D%B0-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0%EA%B0%80-%EC%9D%B4%EC%83%81%ED%95%98%EA%B2%8C-%EB%82%98%EC%98%A8%EB%8B%A4%EA%B3%A0%EC%9A%94-2f084859b5d4)
 - [AWS를 이용해 SPA 호스팅하기](https://wormwlrm.github.io/2020/11/15/SPA-hosting-via-AWS.html)
+- [grpc-js](https://www.npmjs.com/package/@grpc/grpc-js)
 
 ### 이벤트
 
