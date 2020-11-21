@@ -143,6 +143,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR1XfE1zFKgJSliSTJSbBWqx4UCzlgd7fVzDxd2zPlI6lh0xu4MEBGFQSMg)
 - [Go의 철학](https://marsettler.com/the-zen-of-go/)
+- [errgroup으로 goroutine 10배 잘 활용하기](https://devjin-blog.com/golang-errgroup-goroutine)
 
 **[⬆ 위로가기](#-목차-)**
 
