@@ -471,3 +471,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [회사에서 알려주지 않는 이메일 쓰는 법](https://cafe.naver.com/bebettergirls/1669049)
 - [브라우저는 어떻게 동작할까?](https://velog.io/@bbumjun/how-browser-works)
 - [공개 구글 스프레드시트 문서를 이용하여 내가 원하는 형태의 mock API 응답받기](https://fureweb-com.github.io/blog/2020/11/17/how-to-receive-mock-api-response-in-the-form-i-want-using-a-public-google-spreadsheet-document.html)
+- [풋내기 창업자의 스타트업 창업하기 10화\_PM직군의 부상](https://medium.com/daangn/%ED%92%8B%EB%82%B4%EA%B8%B0-%EC%B0%BD%EC%97%85%EC%9E%90%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0-10%ED%99%94-pm%EC%A7%81%EA%B5%B0%EC%9D%98-%EB%B6%80%EC%83%81-ec291afcc5f7)
