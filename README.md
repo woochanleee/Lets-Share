@@ -212,7 +212,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [React Lazy Load Image Component](https://morioh.com/p/a9ec38a35c23)
 - [reactGo](https://github.com/reactGo/reactGo)
 - [boilerplate-collection](https://github.com/sangheon-kim/boilerplate-collection)
-
+- [https://youtu.be/FGG0EeMNUl0](https://youtu.be/FGG0EeMNUl0)
 **[⬆ 위로가기](#-목차-)**
 
 ### Vue.js
