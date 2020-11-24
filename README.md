@@ -426,6 +426,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[UX] 쉬운 말을 써야 한다](https://brunch.co.kr/@sei0/16?fbclid=IwAR2E_2SV0q2fWmQ77bj8Zk_yDkDvxVeHpTQEgnzKvFQU7ZE3H17ghz6iqLk)
 - [웹 디자이너를 위한, 웹 스타일 가이드 지침서](http://styleguide.co.kr/)
 - [Dark Mode UI: the definitive guide](https://uxdesign.cc/dark-mode-ui-design-the-definitive-guide-part-1-color-53dcfaea5129)
+- [The UI & UX tips collection — volume one](https://uxdesign.cc/the-ui-ux-tips-collection-volume-one-f69f0969ed17)
 
 **[⬆ 위로가기](#-목차-)**
 
