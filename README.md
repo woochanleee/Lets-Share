@@ -213,7 +213,9 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [reactGo](https://github.com/reactGo/reactGo)
 - [boilerplate-collection](https://github.com/sangheon-kim/boilerplate-collection)
 - [https://youtu.be/FGG0EeMNUl0](https://youtu.be/FGG0EeMNUl0)
-  **[⬆ 위로가기](#-목차-)**
+- [useEffect를 테스트 하는 방법](https://ui.toast.com/weekly-pick/ko_20201126)
+
+**[⬆ 위로가기](#-목차-)**
 
 ### Vue.js
 
