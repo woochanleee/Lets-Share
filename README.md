@@ -329,6 +329,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a#gaerae.com)
 - [MariaDB SkySQL Demo: Setting Up A Service
   ](https://www.youtube.com/watch?v=0QVJBCJS9nE)
+- [Prisma, 넌 누구니?](https://velog.io/@ltnscp9028/Prisma-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88-gr0ecme3)
 
 **[⬆ 위로가기](#-목차-)**
 
