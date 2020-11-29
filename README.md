@@ -235,6 +235,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   ](https://www.youtube.com/watch?v=ujbE0mzX-CU)
 - [svelte 공식 사이트](https://svelte.dev/)
 - [SVELTE from React](https://flyingmonocopter.github.io/posts/sveltefromreact/)
+-
 
 **[⬆ 위로가기](#-목차-)**
 
@@ -412,6 +413,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [깃헙 액션을 마켓에 등록해보자](https://meetup.toast.com/posts/241)
 - [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
 - [Github Label, Issue, Pull Request Template 적용하기](https://velog.io/@modolee/github-initial-settings)
+- [issue-to-notion](https://github.com/marketplace/actions/issue-to-notion)
 
 **[⬆ 위로가기](#-목차-)**
 
