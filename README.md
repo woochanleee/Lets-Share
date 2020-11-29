@@ -18,6 +18,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [Java](#Java)
   - [python](#python)
   - [Dart](#Dart)
+  - [GraphQL](#GraphQL)
 - [프레임워크 or 라이브러리](#프레임워크-or-라이브러리)
   - [React](#React)
   - [Vue.js](#vuejs)
@@ -178,6 +179,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### Dart
 
 - [다트(Dart)로 웹 크롤링 맛보기](https://medium.com/@larkbless/%EB%8B%A4%ED%8A%B8-dart-%EB%A1%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3df255a8b776)
+
+**[⬆ 위로가기](#-목차-)**
+
+### GraphQL
+
+- [infinite scroll 구현하기 (2) swr-graphql](https://roy-jung.github.io/201130_swr-graphql-infinite-scroll/)
 
 **[⬆ 위로가기](#-목차-)**
 
