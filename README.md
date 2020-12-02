@@ -221,6 +221,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [boilerplate-collection](https://github.com/sangheon-kim/boilerplate-collection)
 - [https://youtu.be/FGG0EeMNUl0](https://youtu.be/FGG0EeMNUl0)
 - [useEffect를 테스트 하는 방법](https://ui.toast.com/weekly-pick/ko_20201126)
+- [[웹개발] [React] React 개발자라면 꼭 알아야하는 SWR](https://www.youtube.com/watch?v=b7Uqx7NZpHw)
 
 **[⬆ 위로가기](#-목차-)**
 
