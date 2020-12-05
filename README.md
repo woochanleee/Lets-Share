@@ -244,6 +244,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   ](https://www.youtube.com/watch?v=ujbE0mzX-CU)
 - [svelte 공식 사이트](https://svelte.dev/)
 - [SVELTE from React](https://flyingmonocopter.github.io/posts/sveltefromreact/)
+- [D3로 서울시 강수량 그래프 만들기](https://www.huskyhoochu.com/d3-graph)
+
 - **[⬆ 위로가기](#-목차-)**
 
 ### Spring Boot
