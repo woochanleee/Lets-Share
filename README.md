@@ -127,6 +127,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [자바스크립트 웹개발용 특화 코딩 테스트](https://kstblog.aww.kr/4s66Q/ug97F)
 - [버블링(Bubbling) & 캡처링(Capturing)](https://velog.io/@denmark-choco/%EB%B2%84%EB%B8%94%EB%A7%81Bubbling-%EC%BA%A1%EC%B2%98%EB%A7%81Capturing)
 - [[자바스크립트] JavaScript Async Defer](https://kool-jay.tistory.com/m/35)
+- [BigInt](https://ko.javascript.info/bigint)
 
 **[⬆ 위로가기](#-목차-)**
 
