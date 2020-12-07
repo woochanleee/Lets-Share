@@ -495,3 +495,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [브라우저는 어떻게 동작할까?](https://velog.io/@bbumjun/how-browser-works)
 - [공개 구글 스프레드시트 문서를 이용하여 내가 원하는 형태의 mock API 응답받기](https://fureweb-com.github.io/blog/2020/11/17/how-to-receive-mock-api-response-in-the-form-i-want-using-a-public-google-spreadsheet-document.html)
 - [풋내기 창업자의 스타트업 창업하기 10화\_PM직군의 부상](https://medium.com/daangn/%ED%92%8B%EB%82%B4%EA%B8%B0-%EC%B0%BD%EC%97%85%EC%9E%90%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0-10%ED%99%94-pm%EC%A7%81%EA%B5%B0%EC%9D%98-%EB%B6%80%EC%83%81-ec291afcc5f7)
+- [소규모 팀을 포함해 누구나 할 수 있는 훌륭한 개발 문화 구축 방법](https://orgeslayer.medium.com/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%9D%84-%ED%8F%AC%ED%95%A8%ED%95%B4-%EB%88%84%EA%B5%AC%EB%82%98-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%ED%9B%8C%EB%A5%AD%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94-%EA%B5%AC%EC%B6%95-%EB%B0%A9%EB%B2%95-23dbe1b665b0)
