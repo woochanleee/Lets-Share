@@ -129,6 +129,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[자바스크립트] JavaScript Async Defer](https://kool-jay.tistory.com/m/35)
 - [BigInt](https://ko.javascript.info/bigint)
 - [Deno / React / MongoDB TODO app](https://github.com/GoldenMaximo/Deno-To-Do)
+- [Getting Started with JSDoc](https://morioh.com/p/6f8309d7862b)
 
 **[⬆ 위로가기](#-목차-)**
 
