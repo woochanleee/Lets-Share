@@ -346,6 +346,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [MariaDB SkySQL Demo: Setting Up A Service
   ](https://www.youtube.com/watch?v=0QVJBCJS9nE)
 - [Prisma, 넌 누구니?](https://velog.io/@ltnscp9028/Prisma-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88-gr0ecme3)
+- [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/2020/11/10/if-kakao-2020-commentary-01-kakao/)
 
 **[⬆ 위로가기](#-목차-)**
 
