@@ -40,6 +40,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [개발 툴](#개발-툴)
 - [데이터베이스](#데이터베이스)
   - [mongoDB](#mongoDB)
+  - [Redis](#Redis)
 - [네트워크](#네트워크)
   - [통신](#통신)
   - [프로토콜](#프로토콜)
@@ -360,6 +361,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### mongoDB
 
 - [MongoDB ReplicaSet 이란 ?](https://blog.naver.com/kjun612/221924296752)
+
+**[⬆ 위로가기](#-목차-)**
+
+### Redis
+
+- [Redis Eviction 정책을 적용하여 효율적인 캐시 띄우기](https://chagokx2.tistory.com/102)
 
 **[⬆ 위로가기](#-목차-)**
 
