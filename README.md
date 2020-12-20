@@ -133,6 +133,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Deno / React / MongoDB TODO app](https://github.com/GoldenMaximo/Deno-To-Do)
 - [Getting Started with JSDoc](https://morioh.com/p/6f8309d7862b)
 - [Top 33 JavaScript Projects on GitHub (December 2020)](https://morioh.com/p/7b0fc6172929)
+- [모던 자바스크립트란 무엇인가(updated)](https://violetboralee.medium.com/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f7e115f03533)
 
 **[⬆ 위로가기](#-목차-)**
 
