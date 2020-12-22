@@ -246,6 +246,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Docker Container로 Nuxt.js(SSR, Static Site) 띄어보기(feat. production)
   [출처] Docker Container로 Nuxt.js(SSR, Static Site) 띄어보기(feat. production)|작성자 맨체스터시티 ](https://blog.naver.com/minhyupp/222137233337)
 - [6 Techniques to Write Better VueJS v-for Loops](https://levelup.gitconnected.com/6-techniques-to-write-better-vuejs-v-for-loops-dc12b3a11e5)
+- [Requests in VueJS: Fetch API and Axios — A Comparison](https://blog.bitsrc.io/requests-in-vuejs-fetch-api-and-axios-a-comparison-a0c13f241888)
 
 **[⬆ 위로가기](#-목차-)**
 
