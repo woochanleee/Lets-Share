@@ -235,6 +235,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [React 최적화 - buffer를 활용하여 상태 갱신 줄이기](https://velog.io/@seongkyun/React-%EC%B5%9C%EC%A0%81%ED%99%94-buffer%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%83%81%ED%83%9C-%EA%B0%B1%EC%8B%A0-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 - [[React] `pages` 폴더 경로를 이용한 동적 라우팅](https://min9nim.now.sh/2020-12-18-react-routing/)
 - [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
+- [React Mobx 안어렵습니다!](https://www.youtube.com/watch?v=tjHljJRooHU&feature=youtu.be)
 
 **[⬆ 위로가기](#-목차-)**
 
