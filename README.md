@@ -402,6 +402,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Client Side Rendering vs Server Side Rendering 모르면 일단 누르세요~](https://www.youtube.com/watch?v=5W72UHb-9iI)
 - [How To Create A Video Chat App With WebRTC](https://morioh.com/p/166cacd988d4)
 - [The Front-End Checklist](https://frontendchecklist.io/)
+- [[SSR] 서버사이드 렌더링](https://yeoulcoding.tistory.com/192)
 
 ### 이벤트
 
