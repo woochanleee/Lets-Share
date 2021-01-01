@@ -296,6 +296,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [알고리즘 시각화 React 웹 앱 개발하기](https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
 - [next js가 리덕스 리덕스 사가 서버사이드 렌더링을 적용하기 편한 프레임 워크인데 이에 대한 풀스택 강의를 듣고 내용을 한번 정리해봤어여](https://www.facebook.com/groups/react.ko/permalink/2702034010056754)
+- [정직하게 배워보는 Next.js 시리즈를 시작합니다.](https://wonit.tistory.com/365?category=829651)
 
 **[⬆ 위로가기](#-목차-)**
 
