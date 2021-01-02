@@ -529,3 +529,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [개발자의 학벌, 학력 그리고 전공](https://velog.io/@dongyi/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%99%EB%B2%8C-%ED%95%99%EB%A0%A5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%84%EA%B3%B5)
 - [같은 주문에 2명의 라이더가 동시에 배달하는 문제 해결 - Redis Transaction을 이용하여 데이터 atomic 보장](https://tjdrnr05571.tistory.com/18)
 - [개발자를 위한 트렌드 2021](https://velog.io/@wooder2050/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8A%B8%EB%A0%8C%EB%93%9C2021)
+- [How To Become a Web Developer in 2021](https://medium.com/javascript-in-plain-english/how-to-become-a-web-developer-in-2021-dd5623f5d1d2)
