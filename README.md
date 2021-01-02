@@ -236,6 +236,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[React] `pages` 폴더 경로를 이용한 동적 라우팅](https://min9nim.now.sh/2020-12-18-react-routing/)
 - [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [React Mobx 안어렵습니다!](https://www.youtube.com/watch?v=tjHljJRooHU&feature=youtu.be)
+- [[react] 스로틀링(throttling)을 활용하여 캡스락(capslock)키 제어](https://blog.naver.com/pjt3591oo/222193586940)
 
 **[⬆ 위로가기](#-목차-)**
 
