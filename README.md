@@ -457,6 +457,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Github Label, Issue, Pull Request Template 적용하기](https://velog.io/@modolee/github-initial-settings)
 - [issue-to-notion](https://github.com/marketplace/actions/issue-to-notion)
 - [Notion blog에서 Github blog로 옮기는 이유](https://changh95.github.io/2020/11/24/20201124-Notion-blog-to-Github-blog/)
+- [1일 1커밋의 목표를 가지고 있다면? - Bitbar Github 플러그인 설정하기](https://fernando.kr/develop/2020-01-11-github-contributions/)
 
 **[⬆ 위로가기](#-목차-)**
 
