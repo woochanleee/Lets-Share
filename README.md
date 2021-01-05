@@ -406,6 +406,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [How To Create A Video Chat App With WebRTC](https://morioh.com/p/166cacd988d4)
 - [The Front-End Checklist](https://frontendchecklist.io/)
 - [[SSR] 서버사이드 렌더링](https://yeoulcoding.tistory.com/192)
+- [[Safari] 내 iPhone 브라우저 Inspect하기](https://yeoulcoding.tistory.com/194)
 
 ### 이벤트
 
