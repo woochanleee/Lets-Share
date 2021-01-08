@@ -137,6 +137,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Improve Your JavaScript Level With These 4 Questions](https://medium.com/javascript-in-plain-english/i-use-these-4-questions-to-find-outstanding-javascript-developers-4a468ea17155)
 - [Creating a Browser Notification in JavaScript](https://levelup.gitconnected.com/creating-browser-notification-in-javascript-79e91bfb76c8)
 - [[React] Timer 만들기](https://yeoulcoding.tistory.com/195?category=816310)
+- [JavaScript Prototype](https://velog.io/@youngkiu/JavaScript-Prototype)
 
 **[⬆ 위로가기](#-목차-)**
 
