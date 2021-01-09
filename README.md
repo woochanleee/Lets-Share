@@ -198,6 +198,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### GraphQL
 
 - [infinite scroll 구현하기 (2) swr-graphql](https://roy-jung.github.io/201130_swr-graphql-infinite-scroll/)
+- [4 reasons why you should use GraphQL over REST APIs](https://dev.to/blessingartcreator/stop-using-rest-for-apis-53n)
 
 **[⬆ 위로가기](#-목차-)**
 
