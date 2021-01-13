@@ -138,6 +138,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Creating a Browser Notification in JavaScript](https://levelup.gitconnected.com/creating-browser-notification-in-javascript-79e91bfb76c8)
 - [[React] Timer 만들기](https://yeoulcoding.tistory.com/195?category=816310)
 - [JavaScript Prototype](https://velog.io/@youngkiu/JavaScript-Prototype)
+- [The Amazing Power of JavaScript Proxies](https://levelup.gitconnected.com/the-amazing-power-of-javascript-proxies-aa27c6d06bcb)
 
 **[⬆ 위로가기](#-목차-)**
 
