@@ -160,6 +160,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [errgroup으로 goroutine 10배 잘 활용하기](https://devjin-blog.com/golang-errgroup-goroutine)
 - [GO VS JAVA - GO에서의 객체 지향](https://umi0410.github.io/blog/golang/go-vs-java-oop/)
 - [Go에서 TensorFlow API를 사용해 본 이야기](https://docs.google.com/document/d/1eMJQsTBmGqbcPLLCzhZQPIAtkyxBLxCs_yg37Ae1l_w/edit)
+- [Build a Simple REST API using Golang with the Gorilla Mux Http Router and Dispatcher.](https://morioh.com/p/9655aed18cd5)
 
 **[⬆ 위로가기](#-목차-)**
 
