@@ -248,6 +248,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [React Mobx 안어렵습니다!](https://www.youtube.com/watch?v=tjHljJRooHU&feature=youtu.be)
 - [[react] 스로틀링(throttling)을 활용하여 캡스락(capslock)키 제어](https://blog.naver.com/pjt3591oo/222193586940)
 - [React Fast Refresh](https://reactiver.dev/react-fast-refresh/)
+- [Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux)](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/)
 
 **[⬆ 위로가기](#-목차-)**
 
