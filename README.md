@@ -88,6 +88,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [RTL Styling 101](https://rtlstyling.com/posts/rtl-styling)
 - [Improve Page Rendering Speed Using Only CSS](https://blog.bitsrc.io/improve-page-rendering-speed-using-only-css-a61667a16b2)
 - [Mastering CSS Grid Model in 2021🔥 - Build 5 Layouts🎖️ || CSS 2021](https://youtu.be/OtpDP8k-2iM)
+- [Hello Tailwind CSS! | 장점, 단점, 사용법](https://wonny.space/writing/dev/hello-tailwind-css)
 
 **[⬆ 위로가기](#-목차-)**
 
