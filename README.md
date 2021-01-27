@@ -144,6 +144,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [호이스팅과 var, let, const](https://www.huskyhoochu.com/hoisting-var-let-const/)
 - [[JavaScript] a == 0 && a == 1 은 true가 될 수 있다](https://kool-jay.tistory.com/m/36)
 - [Best of Modern JavaScript — Well-Known Symbols](https://medium.com/javascript-in-plain-english/best-of-modern-javascript-well-known-symbols-242176a5c67b)
+- [Javascript 기초 - JavaScript 개발한다면 JIT은 알아야JIT](https://samslow.github.io/development/2020/07/06/JIT/)
 
 **[⬆ 위로가기](#-목차-)**
 
