@@ -290,6 +290,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
 - [SpringBoot REST API client인증처리,OAuth2.0](https://handcoding.tistory.com/165)
 - [2. application.properties DB접속정보로 DataSource 빈 생성이 안된이슈](https://kim-jong-hyun.tistory.com/13)
+- [JWT Token을 spring security에서 손쉽게 검증하기 위한 방법](https://life-journey.tistory.com/15)
 
 **[⬆ 위로가기](#-목차-)**
 
