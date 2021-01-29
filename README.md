@@ -431,6 +431,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
 - [크롬 확장 플러그인 톺아보기](https://woowabros.github.io/experience/2021/01/08/chrome-devtools-in-depth.html)
 - [Rollup.js 환경설정](https://so-so.dev/tool/rollup/rollupjs-config/)
+- [[HTML 강의] 브라우저 전쟁과 웹 표준](https://www.youtube.com/watch?v=q4Cnu_kmj00)
 
 ### 이벤트
 
