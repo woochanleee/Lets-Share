@@ -562,3 +562,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [개발자를 위한 트렌드 2021](https://velog.io/@wooder2050/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8A%B8%EB%A0%8C%EB%93%9C2021)
 - [How To Become a Web Developer in 2021](https://medium.com/javascript-in-plain-english/how-to-become-a-web-developer-in-2021-dd5623f5d1d2)
 - [다각형 내부 외부 판별(기하)](https://bowbowbow.tistory.com/24)
+- [🗳노션으로 포트폴리오 만들기 | 기회 UP!🔥 마케터 포트폴리오 공개](https://www.youtube.com/watch?v=2Sz1Xmy_1h8)
