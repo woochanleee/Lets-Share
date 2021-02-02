@@ -257,6 +257,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [React 서버 컴포넌트](https://ui.toast.com/weekly-pick/ko_20210119/)
 - [Create App Custom](https://createapp.dev/webpack)
 - [[React] list component key에 대하여 .](https://hokeydokey.tistory.com/121)
+- [Recoil 레시피: 서버 사이드 렌더링](https://taegon.kim/archives/10263)
 
 **[⬆ 위로가기](#-목차-)**
 
