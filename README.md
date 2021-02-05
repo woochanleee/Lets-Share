@@ -210,6 +210,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [infinite scroll 구현하기 (2) swr-graphql](https://roy-jung.github.io/201130_swr-graphql-infinite-scroll/)
 - [4 reasons why you should use GraphQL over REST APIs](https://dev.to/blessingartcreator/stop-using-rest-for-apis-53n)
 - [Creating a GraphQL API while utilizing your REST API](https://dev.to/keonik/creating-a-graphql-api-while-utilizing-your-rest-api-55d9)
+- [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
 
 **[⬆ 위로가기](#-목차-)**
 
