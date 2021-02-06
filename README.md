@@ -212,6 +212,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [4 reasons why you should use GraphQL over REST APIs](https://dev.to/blessingartcreator/stop-using-rest-for-apis-53n)
 - [Creating a GraphQL API while utilizing your REST API](https://dev.to/keonik/creating-a-graphql-api-while-utilizing-your-rest-api-55d9)
 - [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
+- [Relay로 구현한 Github 유저 검색하기 프로젝트](https://www.huskyhoochu.com/react-relay-github/)
 
 **[⬆ 위로가기](#-목차-)**
 
