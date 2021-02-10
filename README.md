@@ -306,6 +306,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### Node.js
 
 - [Node CPU 점유율 최적화 경험기](https://hyperconnect.github.io/2020/02/11/Node-cpu-debug.html?fbclid=IwAR1TtdsJ4jWRB8mJpFxEoWgZHzMUIPIiGjNgIPEOk3PYKo5r3zo9lplM6cY)
+- [[Node.js] 모듈 시스템](https://heekangpark.github.io/javascript/nodejs-modules)
 
 **[⬆ 위로가기](#-목차-)**
 
