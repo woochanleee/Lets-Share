@@ -451,6 +451,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Rollup.js 환경설정](https://so-so.dev/tool/rollup/rollupjs-config/)
 - [[HTML 강의] 브라우저 전쟁과 웹 표준](https://www.youtube.com/watch?v=q4Cnu_kmj00)
 - [JavaScript Frameworks, Performance Comparison 2020](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce)
+- [브라우저의 동작 원리와 렌더링 최적화](https://www.huskyhoochu.com/how-browser-works/)
 
 ### 이벤트
 
