@@ -309,6 +309,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [SpringBoot REST API client인증처리,OAuth2.0](https://handcoding.tistory.com/165)
 - [2. application.properties DB접속정보로 DataSource 빈 생성이 안된이슈](https://kim-jong-hyun.tistory.com/13)
 - [JWT Token을 spring security에서 손쉽게 검증하기 위한 방법](https://life-journey.tistory.com/15)
+- [22. Spring - Profile별로 개발환경 세팅 및 배포](https://kim-jong-hyun.tistory.com/40)
 
 **[⬆ 위로가기](#-목차-)**
 
