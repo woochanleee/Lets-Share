@@ -91,6 +91,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Hello Tailwind CSS! | 장점, 단점, 사용법](https://wonny.space/writing/dev/hello-tailwind-css)
 - [Master Flexbox 2021 🔥 - Build 5 Responsive Layouts 🎖️ || CSS 2021](https://www.youtube.com/watch?v=m8BSEUUB5so)
 - [transition - 베지어 곡선](https://ko.javascript.info/css-animations)
+- [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/)
 
 **[⬆ 위로가기](#-목차-)**
 
