@@ -585,3 +585,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [🗳노션으로 포트폴리오 만들기 | 기회 UP!🔥 마케터 포트폴리오 공개](https://www.youtube.com/watch?v=2Sz1Xmy_1h8)
 - [우리가 몰랐던 APP PUSH에 대한 7가지 사실](https://www.openads.co.kr/content/contentDetail?contsId=6015)
 - [99.(정리) 중학생 AWS 클라우드 수업 내용입니다.](https://brunch.co.kr/@topasvga/1500)
+- [[nginx] nginx 시작하기 1/2 - 기초편](https://blog.naver.com/pjt3591oo/222242046633)
