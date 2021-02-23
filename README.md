@@ -389,6 +389,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [🌳🚀 CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - [Git을 이용한 협업 워크플로우](https://lhy.kr/git-workflow)
 - [오픈소스를 번역할 때 유용한 Git Localize 사용법](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
+- [지금 당장 좋은 커밋 메시지를 남기는 방법(with Git Commit Template)](https://jeong-pro.tistory.com/m/207)
 
 **[⬆ 위로가기](#-목차-)**
 
