@@ -340,6 +340,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [알고리즘 시각화 React 웹 앱 개발하기](https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
 - [next js가 리덕스 리덕스 사가 서버사이드 렌더링을 적용하기 편한 프레임 워크인데 이에 대한 풀스택 강의를 듣고 내용을 한번 정리해봤어여](https://www.facebook.com/groups/react.ko/permalink/2702034010056754)
 - [정직하게 배워보는 Next.js 시리즈를 시작합니다.](https://wonit.tistory.com/365?category=829651)
+- [AWS CodePipeline과 Amazon s3를 통한 정적 웹사이트 CI/CD 구축(Next.js)](https://medium.com/elecle-bike/aws-codepipeline%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-ci-cd-%EA%B5%AC%EC%B6%95-next-js-532fff15474)
 
 **[⬆ 위로가기](#-목차-)**
 
