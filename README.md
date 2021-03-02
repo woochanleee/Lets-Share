@@ -271,6 +271,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[React] list component key에 대하여 .](https://hokeydokey.tistory.com/121)
 - [Recoil 레시피: 서버 사이드 렌더링](https://taegon.kim/archives/10263)
 - [How to useRef to Fix React Performance Issues](https://betterprogramming.pub/how-to-useref-to-fix-react-performance-issues-4d92a8120c09)
+- [The New React 17 JSX Transform](https://javascript.plainenglish.io/new-react-17-jsx-transform-aea85becee18)
 
 **[⬆ 위로가기](#-목차-)**
 
