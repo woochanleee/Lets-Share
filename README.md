@@ -436,6 +436,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### 개발 툴
 
 - [[서버] 로그인이 필요한 API 똑똑하게 테스트 하는 방법 - postman 활용](https://blog.naver.com/pjt3591oo/221822014861?fbclid=IwAR2ijbBTaFyEk372Qgi8QbPwpzLgbkzwJoeHFrCux76yI1ASrI4yeHyHmmo)
+- [프론트엔드 개발자 꿀팁!! - 가짜(Mock) 서버 만들어서 API 활용하기 - postman](https://www.youtube.com/watch?v=RnpeQd1xJi8&feature=youtu.be)
 
 **[⬆ 위로가기](#-목차-)**
 
