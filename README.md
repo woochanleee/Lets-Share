@@ -601,3 +601,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[nginx] nginx 시작하기 1/2 - 기초편](https://blog.naver.com/pjt3591oo/222242046633)
 - [기획서 완성도가 떨어지고 보기가 어려워요!](https://brunch.co.kr/@cysstory/169)
 - [(공유) 대규모 인프라를 운영하기 위한 15가지 정보](https://brunch.co.kr/@topasvga/1510)
+- [실리콘밸리에서 개발자로 취업하기](https://outstanding.kr/siliconvalley20210304)
