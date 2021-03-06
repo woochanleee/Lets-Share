@@ -222,6 +222,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Creating a GraphQL API while utilizing your REST API](https://dev.to/keonik/creating-a-graphql-api-while-utilizing-your-rest-api-55d9)
 - [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
 - [Relay로 구현한 Github 유저 검색하기 프로젝트](https://www.huskyhoochu.com/react-relay-github/)
+- [Writing a Node.js GraphQL backend that actually scales](https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293)
 
 **[⬆ 위로가기](#-목차-)**
 
