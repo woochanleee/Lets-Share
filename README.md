@@ -179,6 +179,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Go Web Frameworks 비교 - 2020년 10월](https://docs.google.com/document/d/1Eu6eiT16VraV6b6MHcsCmp6fasxuZ1lV112fNON3oCQ/edit?fbclid=IwAR3OOp33WtPOiF2Psrvo7j4ULQbtlUypgAlkMfTI1I1SuTwLHj_VSBZjG54)
 - [Go로 백그라운드로 애플리케이션 실행하기](https://docs.google.com/document/d/1qozxWxeK33uonlyea3U8nk9nDJaR2FAZwKkGqXqfxEA/edit)
 - [Golang - http.Client에 context 패키지를 쓰면 더 좋다](https://jusths.tistory.com/204)
+- [Learn Go with Tests](https://github.com/MiryangJung/learn-go-with-tests-ko)
 
 **[⬆ 위로가기](#-목차-)**
 
