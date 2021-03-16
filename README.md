@@ -426,6 +426,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 ## 데이터베이스
 
+- [[SQL서버] VALUES의 다양한 용법(테이블 값 생성자)](https://hackhyun.tistory.com/295)
+
 **[⬆ 위로가기](#-목차-)**
 
 ### mongoDB
