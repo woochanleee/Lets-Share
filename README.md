@@ -442,6 +442,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [Redis Eviction 정책을 적용하여 효율적인 캐시 띄우기](https://chagokx2.tistory.com/102)
 - [Redis 성능 향상을 위한 Redis 세션 저장소와 캐시 저장소의 분리](https://chagokx2.tistory.com/99)
+- [레디스(Redis)는 언제 어떻게 사용하는 게 좋을까](https://brunch.co.kr/@skykamja24/575)
 
 **[⬆ 위로가기](#-목차-)**
 
