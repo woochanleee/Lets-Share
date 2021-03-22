@@ -333,6 +333,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Node CPU 점유율 최적화 경험기](https://hyperconnect.github.io/2020/02/11/Node-cpu-debug.html?fbclid=IwAR1TtdsJ4jWRB8mJpFxEoWgZHzMUIPIiGjNgIPEOk3PYKo5r3zo9lplM6cY)
 - [[Node.js] 모듈 시스템](https://heekangpark.github.io/javascript/nodejs-modules)
 - [3 Free Node.js Hosting Services you Should Try Today](https://javascript.plainenglish.io/free-node-js-hosting-ba585c4c4e39)
+- [logstash를 이용하여 mysql과 elasticsearch 연동하기](https://velog.io/@juunini/logstash%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-mysql%EA%B3%BC-elasticsearch-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 
 **[⬆ 위로가기](#-목차-)**
 
