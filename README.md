@@ -619,3 +619,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [기획서 완성도가 떨어지고 보기가 어려워요!](https://brunch.co.kr/@cysstory/169)
 - [(공유) 대규모 인프라를 운영하기 위한 15가지 정보](https://brunch.co.kr/@topasvga/1510)
 - [실리콘밸리에서 개발자로 취업하기](https://outstanding.kr/siliconvalley20210304)
+- [클릭하고 싶은 제목 유형 10가지](https://brunch.co.kr/@thinkaboutlove/369)
