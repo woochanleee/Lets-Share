@@ -526,6 +526,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose?fbclid=IwAR2KBwlA4zRhCJ0FoNzJUatPw2JXkkDqMDd0rx1BokLuBtmLLhetHNIDMQc)
 - [도커 이미지 잘 만드는 방법](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
 - [쿠버네티스 안내서](https://subicura.com/k8s/)
+- [Container부터 다시 살펴보는 Kubernetes Pod 동작 원리](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
 
 **[⬆ 위로가기](#-목차-)**
 
