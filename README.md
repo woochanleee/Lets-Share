@@ -280,6 +280,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [The New React 17 JSX Transform](https://javascript.plainenglish.io/new-react-17-jsx-transform-aea85becee18)
 - [3 Ways to Analyze React Performance with Reactime](https://medium.com/swlh/3-ways-to-analyze-react-performance-with-reactime-64f6cbbf330d)
 - [[react] react 최적화 기법 - memo, useCallback, useMemo](https://blog.naver.com/pjt3591oo/222281569378)
+- [아토믹(Atomic) 컴포넌트 디자인 개발 패턴](https://brunch.co.kr/@skykamja24/580)
 
 **[⬆ 위로가기](#-목차-)**
 
