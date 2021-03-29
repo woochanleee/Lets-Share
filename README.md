@@ -626,3 +626,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [(공유) 대규모 인프라를 운영하기 위한 15가지 정보](https://brunch.co.kr/@topasvga/1510)
 - [실리콘밸리에서 개발자로 취업하기](https://outstanding.kr/siliconvalley20210304)
 - [클릭하고 싶은 제목 유형 10가지](https://brunch.co.kr/@thinkaboutlove/369)
+- [내 포트폴리오가 서류탈락인 이유 - 프로젝트 이렇게 해보세요](https://velog.io/@dongyi/%EB%82%B4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%80-%EC%84%9C%EB%A5%98%ED%83%88%EB%9D%BD%EC%9D%B8-%EC%9D%B4%EC%9C%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
