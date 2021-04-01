@@ -154,6 +154,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[Node.js] setTimeout(), setImmediate(), process.nextTick()의 차이점](https://blog.naver.com/dlaxodud2388/222229554720)
 - [async/await 구문 작성 후 무야호를 외치는 방법](https://dev.to/composite/async-await-2369)
 - [[JavaScript] What is Garbage Collector? How it works?](https://www.youtube.com/watch?v=rLx7yfdMgHQ)
+- [Class vs Factory Function, 더 나은 선택은?](https://tech.urbanbase.com/dev/2021/03/28/ECMAScript6.html)
 
 **[⬆ 위로가기](#-목차-)**
 
