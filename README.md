@@ -493,6 +493,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [웹 성능 최적화 SSR + Cache 적용기](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)
 - [Is It the Beginning of the End for PWAs?](https://blog.bitsrc.io/is-it-the-beginning-of-the-end-for-pwas-da0fb032d545)
 - [프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
+- [7 Tips for Becoming a Competent JavaScript Developer](https://betterprogramming.pub/7-tips-for-becoming-a-competent-javascript-developer-bc5b7a568287)
 
 ### 이벤트
 
