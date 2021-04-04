@@ -495,6 +495,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
 - [7 Tips for Becoming a Competent JavaScript Developer](https://betterprogramming.pub/7-tips-for-becoming-a-competent-javascript-developer-bc5b7a568287)
 - [Deep Dive into Page Lifecycle API](https://blog.bitsrc.io/page-lifecycle-api-a-browser-api-every-frontend-developer-should-know-b1c74948bd74)
+- [브라우저 캐시 테스트](https://framework.xenosi.de/cachetest/)
 
 ### 이벤트
 
