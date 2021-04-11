@@ -501,6 +501,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Deep Dive into Page Lifecycle API](https://blog.bitsrc.io/page-lifecycle-api-a-browser-api-every-frontend-developer-should-know-b1c74948bd74)
 - [브라우저 캐시 테스트](https://framework.xenosi.de/cachetest/)
 - [DevTools architecture refresh: migrating DevTools to TypeScript](https://developer.chrome.com/blog/migrating-to-typescript/)
+- [requestIdleCallback으로 초기 렌더링 시간 14% 단축하기](https://engineering.linecorp.com/ko/blog/line-securities-frontend-4/)
 
 ### 이벤트
 
