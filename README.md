@@ -331,6 +331,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [22. Spring - Profile별로 개발환경 세팅 및 배포](https://kim-jong-hyun.tistory.com/40)
 - [25. Spring - DI (Dependency Injection) 동작원리](https://kim-jong-hyun.tistory.com/44)
 - [Service와 ServiceImpl 구조에 대해서](https://see-one.tistory.com/1)
+- [27. Spring - Swagger 기본사용법 및 API 문서자동화](https://kim-jong-hyun.tistory.com/49)
 
 **[⬆ 위로가기](#-목차-)**
 
