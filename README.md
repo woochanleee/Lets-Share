@@ -546,6 +546,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [도커 이미지 잘 만드는 방법](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
 - [쿠버네티스 안내서](https://subicura.com/k8s/)
 - [Container부터 다시 살펴보는 Kubernetes Pod 동작 원리](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
+- ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유](https://www.ciokorea.com/news/190458)
 
 **[⬆ 위로가기](#-목차-)**
 
