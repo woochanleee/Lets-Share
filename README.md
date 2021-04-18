@@ -646,6 +646,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [b2b 프로덕트가 제대로 망하는 과정](https://sonujung.com/how-the-b2b-product-destined-to-fail)
 - [OKR : 생산성을 보장하는 방법론](https://brunch.co.kr/@sower/55)
 - [선배가 일을 안 가르쳐 주기 시작할 때](https://brunch.co.kr/@lunarshore/410)
+- [🙈 컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까?](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
 
 ## 알고리즘
 
