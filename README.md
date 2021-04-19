@@ -648,6 +648,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [OKR : 생산성을 보장하는 방법론](https://brunch.co.kr/@sower/55)
 - [선배가 일을 안 가르쳐 주기 시작할 때](https://brunch.co.kr/@lunarshore/410)
 - [🙈 컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까?](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
+- [Common Questions for Web Developer](https://2ssue.github.io/common_questions_for_Web_Developer/)
 
 ## 알고리즘
 
