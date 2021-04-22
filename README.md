@@ -651,6 +651,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [🙈 컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까?](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
 - [Common Questions for Web Developer](https://2ssue.github.io/common_questions_for_Web_Developer/)
 - [욕 안 먹는 개발자되기](https://blog.shiren.dev/2021-04-20/)
+- [Why SOLID Principles are not a solid solution for Software Design](https://towardsdatascience.com/why-solid-principles-are-not-a-solid-solution-for-software-design-fa71b6017ed6)
 
 ## 알고리즘
 
