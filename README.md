@@ -26,6 +26,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
   - [Svelte](#Svelte)
   - [Spring Boot](#Spring-Boot)
   - [Node.js](#nodejs)
+  - [Nest.js](#nestjs)
   - [Javalin](#Javalin)
   - [NW.js](#nwjs)
   - [Next.js](#nextjs)
@@ -344,6 +345,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [3 Free Node.js Hosting Services you Should Try Today](https://javascript.plainenglish.io/free-node-js-hosting-ba585c4c4e39)
 - [logstash를 이용하여 mysql과 elasticsearch 연동하기](https://velog.io/@juunini/logstash%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-mysql%EA%B3%BC-elasticsearch-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 - [데이터 검증 (Data Validation)은 언제, 얼마나 해야 할까?](https://elvanov.com/2414)
+
+**[⬆ 위로가기](#-목차-)**
+
+### Nest.js
+
+- [Dockerized NestJS Micro-service application with Redis](https://tushar-chy.medium.com/dockerized-nestjs-micro-service-application-with-redis-6238261ba69c)
 
 **[⬆ 위로가기](#-목차-)**
 
