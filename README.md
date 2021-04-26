@@ -406,6 +406,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### Spring
 
 - [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/?fbclid=IwAR24SnHgrKc7iSxf2TfNL2s1PW787V6BzWUqLaWJ_Q-sivgzi9TpalAec_o)
+- [Spring - Security에서 사용자의 권한을 동적으로 처리하기](https://kim-jong-hyun.tistory.com/53)
 
 **[⬆ 위로가기](#-목차-)**
 
