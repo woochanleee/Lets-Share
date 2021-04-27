@@ -107,14 +107,12 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md?fbclid=IwAR2uz8jGxP9rI45Rf94ZTDoVvaxOgpzewJRU0MraGCQwLCtaT0kp7hD-JS8)
 - [✨♻️ JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif?fbclid=IwAR0ut3necjpUWMjQwKcRU6iYdHifP7BKV1q9mAxUgEuUAuvCXIYRAdA--qc)
 - [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/?fbclid=IwAR0gWb4A_eE1ldDgM7WqdrsQNWAENQ9UisWOLB73mcKZnsEwa7St3gtnChg)
-- [
-  꼭 알아야 할 자바스크립트 Array 메서드 10가지](https://erokuma.tistory.com/entry/%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Array-method-10%EA%B0%80%EC%A7%80?fbclid=IwAR2m_QeA-_Y-5aEPIlRKUYKNivdpvSnu1QBE7z_4XD4CbmL0IowAdDt_zU8)
+- [꼭 알아야 할 자바스크립트 Array 메서드 10가지](https://erokuma.tistory.com/entry/%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Array-method-10%EA%B0%80%EC%A7%80?fbclid=IwAR2m_QeA-_Y-5aEPIlRKUYKNivdpvSnu1QBE7z_4XD4CbmL0IowAdDt_zU8)
 - [JavaScript로 이번 달 달력 만들기](https://medium.com/duckuism/javascript%EB%A1%9C-%EC%9D%B4%EB%B2%88-%EB%8B%AC-%EB%8B%AC%EB%A0%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1dff5f317459)
 - [What's new in ECMAScript 2020 (ES11)](https://john015.netlify.app/what-is-new-in-es-11?fbclid=IwAR1F6PtdpmMSkVY3RwlFZj1meqCyIOyHdikfjcBN7qvTKpHNqQuvgx2pTgI)
 - [[번역]Javascript의 실행 콘텍스트와 실행 스택 이해하기](https://kimlog.me/js/2020-01-30-execution-context/?fbclid=IwAR3eDKy2S0YAN0b8wf8SgCAQRkpR7KpN60I5wVnF6r5Z5zNlmzkEFATVuxM)
 - [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/?fbclid=IwAR3f4xsESsRpCoDRkrXV2-4iPs3nHt-zfjxbKdbeCUoco3_Sn90_HpJzOyM)
-- [Async-await는 어떻게 구현하는가
-  ](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
+- [Async-await는 어떻게 구현하는가](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
 - [[번역] await vs return vs return await](https://perade.github.io/blog/await-vs-return-vs-return-await/?fbclid=IwAR2XeNBAlCBZhOa74-W4IoLExGsW890z-ysIVOmIhadPjG6o0tUG4aHfd-E)
 - [Understand and Using the DOM like a Pro](https://morioh.com/p/49a28efb5cc3?fbclid=IwAR3W9sEkQxy0YZpOi6sYFXg0HOsYGLiqIKrfhf30legXElRq5DTAIm7mQzY)
 - [JavaScript로 함수형 프로그래밍 배우기 - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&feature=youtu.be&fbclid=IwAR1_3YXl3V6PxNJ7bumr6UmVCxApzR3hL04Gzx9H_AZ3IelHCla5BZXjU3c)
@@ -159,6 +157,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Class vs Factory Function, 더 나은 선택은?](https://tech.urbanbase.com/dev/2021/03/28/ECMAScript6.html)
 - [Javascript Closure는 Private 변수 만드는 용도인가?](https://medium.com/naver-place-dev/javascript-closure%EB%8A%94-private-%EB%B3%80%EC%88%98-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9A%A9%EB%8F%84%EC%9D%B8%EA%B0%80-d5868489c421)
 - [Difference between Regular and Arrow Functions in JavaScript](https://morioh.com/p/761768c97ae4)
+- [50.65.toFixed(1) = 50.6(???)](https://haragoo30.medium.com/50-65-tofixed-1-50-6-b8f837b7cdc8)
 
 **[⬆ 위로가기](#-목차-)**
 
