@@ -171,6 +171,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [[typescript] 타입스크립트를 써야하는 이유](https://blog.naver.com/pjt3591oo/222184954032)
 - [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217)
 - [nullable 한 값에 대한 Pipe or Compose 함수](https://www.notion.so/nullable-Pipe-or-Compose-2f627c30e2744f79a96ecbcd6e84ee2e)
+- [Stop Using Switch in TypeScript — 3 Alternatives To Use Instead](https://betterprogramming.pub/stop-using-switch-in-typescript-3-alternatives-to-use-instead-aef014c9b31d)
 
 **[⬆ 위로가기](#-목차-)**
 
