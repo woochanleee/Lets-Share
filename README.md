@@ -663,6 +663,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Common Questions for Web Developer](https://2ssue.github.io/common_questions_for_Web_Developer/)
 - [욕 안 먹는 개발자되기](https://blog.shiren.dev/2021-04-20/)
 - [Why SOLID Principles are not a solid solution for Software Design](https://towardsdatascience.com/why-solid-principles-are-not-a-solid-solution-for-software-design-fa71b6017ed6)
+- [카나리 테스트와 함께하는 안전한 서버 배포](https://engineering.vcnc.co.kr/2021/04/canary/)
 
 ## 알고리즘
 
