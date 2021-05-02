@@ -517,6 +517,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [5 Different Tools for Frontend Monitoring](https://blog.bitsrc.io/5-different-tools-for-frontend-monitoring-79db94014d)
 - [7 Repos I Didn’t Know I Needed For Front-End](https://javascript.plainenglish.io/7-repos-i-didnt-know-i-needed-for-front-end-389bf498afaa)
 - [Real-world CSS vs. CSS-in-JS performance comparison](https://pustelto.com/blog/css-vs-css-in-js-perf/)
+- [네이버와 카카오의 QR 체크인 페이지 비교해보기](https://wormwlrm.github.io/2021/05/02/Comparing-QR-check-in-pages.html)
 
 ### 이벤트
 
