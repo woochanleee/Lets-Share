@@ -518,6 +518,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [7 Repos I Didn’t Know I Needed For Front-End](https://javascript.plainenglish.io/7-repos-i-didnt-know-i-needed-for-front-end-389bf498afaa)
 - [Real-world CSS vs. CSS-in-JS performance comparison](https://pustelto.com/blog/css-vs-css-in-js-perf/)
 - [네이버와 카카오의 QR 체크인 페이지 비교해보기](https://wormwlrm.github.io/2021/05/02/Comparing-QR-check-in-pages.html)
+- [iOS 14.5 brings the new Safari 14.1 to PWAs and the Web Platform](https://firt.dev/ios-14.5/)
 
 ### 이벤트
 
