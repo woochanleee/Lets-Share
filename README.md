@@ -209,6 +209,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [왜 wait 메서드는 반복문 안에서 써야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-wait-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EB%B0%98%EB%B3%B5%EB%AC%B8-%EC%95%88%EC%97%90%EC%84%9C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
 - [java 박싱 언박싱과 오버헤드에 대한 이야기](https://codingdog.tistory.com/entry/java-%EB%B0%95%EC%8B%B1-%EC%96%B8%EB%B0%95%EC%8B%B1%EA%B3%BC-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 - [Java Annotation 의 이해 1/3](https://www.youtube.com/watch?v=7pZq35Cg3D4&list=PLiacBd9i7R42TQCAnsi2zM68dcn8Y5Uud)
+- [[테크톡] 당신의 코드는 POJO하신가요?](https://youtu.be/5NcqgXgmmjg)
 
 **[⬆ 위로가기](#-목차-)**
 
