@@ -525,6 +525,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [iOS 14.5 brings the new Safari 14.1 to PWAs and the Web Platform](https://firt.dev/ios-14.5/)
 - [React vs. Vue in 2021: Best JavaScript Framework](https://dzone.com/articles/react-vs-vue-in-2021-best-javascript-framework)
 - [Vanilla JS에서 SPA 라우팅 시스템 구현하기](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
+- [라이트하우스 성능 지표 살펴보기](https://junghan92.medium.com/%EB%9D%BC%EC%9D%B4%ED%8A%B8%ED%95%98%EC%9A%B0%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-83df3dc96fb9)
 
 ### 이벤트
 
