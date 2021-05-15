@@ -95,6 +95,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Master Flexbox 2021 🔥 - Build 5 Responsive Layouts 🎖️ || CSS 2021](https://www.youtube.com/watch?v=m8BSEUUB5so)
 - [transition - 베지어 곡선](https://ko.javascript.info/css-animations)
 - [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/)
+- [CSS line-height, 1과 1em의 차이에 대하여](https://www.youtube.com/watch?v=8SJKAMWpe8Y)
 
 **[⬆ 위로가기](#-목차-)**
 
