@@ -682,3 +682,4 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ## 알고리즘
 
 - [백준 배열 돌리기 5 : 전략적인 브루트 포스로 풀어봅시다.](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EB%B0%B0%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B0-5-%EC%A0%84%EB%9E%B5%EC%A0%81%EC%9D%B8-%EB%B8%8C%EB%A3%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%EB%A1%9C-%ED%92%80%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
+- [미로에 물을 쏟아 최단 경로를 구해요. BFS 알고리즘 [코딩테스트 Python]](https://youtu.be/R-G34E1trCk)
