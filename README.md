@@ -159,6 +159,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Javascript Closure는 Private 변수 만드는 용도인가?](https://medium.com/naver-place-dev/javascript-closure%EB%8A%94-private-%EB%B3%80%EC%88%98-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9A%A9%EB%8F%84%EC%9D%B8%EA%B0%80-d5868489c421)
 - [Difference between Regular and Arrow Functions in JavaScript](https://morioh.com/p/761768c97ae4)
 - [50.65.toFixed(1) = 50.6(???)](https://haragoo30.medium.com/50-65-tofixed-1-50-6-b8f837b7cdc8)
+- [Anjana Vakil: 함수형 JS를 위한 불변 자료구조 (JSConf EU, 2017)](https://medium.com/tech-confs-in-korean/anjana-vakil-%ED%95%A8%EC%88%98%ED%98%95-js%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B6%88%EB%B3%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-jsconf-eu-2017-f52b134bd103)
 
 **[⬆ 위로가기](#-목차-)**
 
