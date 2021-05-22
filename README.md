@@ -531,6 +531,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Vanilla JS에서 SPA 라우팅 시스템 구현하기](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
 - [라이트하우스 성능 지표 살펴보기](https://junghan92.medium.com/%EB%9D%BC%EC%9D%B4%ED%8A%B8%ED%95%98%EC%9A%B0%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-83df3dc96fb9)
 - [[Webpack] 웹팩 개념 알아보기](https://velog.io/@mnz/Webpack-%EC%9B%B9%ED%8C%A9-%EA%B0%9C%EB%85%90-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [300개 이상의 랜딩페이지 사례를 11가지 구분에 따라 확인할 수 있는 곳!](http://icunow.co.kr/landingpageexamples/)
 
 ### 이벤트
 
