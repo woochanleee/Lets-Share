@@ -297,6 +297,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [React의 렌더링 퍼포먼스 개선기 (부제: 수백개의 아이템을 가진 리스트를 개선하기)](https://medium.com/benx-tech-blog/react%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EA%B0%9C%EC%84%A0%EA%B8%B0-%EB%B6%80%EC%A0%9C-1000%EA%B0%9C-%EC%9D%B4%EC%83%81%EC%9D%98-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%84-%EA%B0%80%EC%A7%84-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-8403a6c47b1c)
 - [React는 왜 React일까?](https://reactiver.dev/where-did-the-name-react-come-from/)
 - [[react] typescript 기반의 리액트 인터페이스(interface, type) 이해하기](https://blog.naver.com/pjt3591oo/222342618084)
+- [5 Advanced React Patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
 
 **[⬆ 위로가기](#-목차-)**
 
