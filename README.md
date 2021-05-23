@@ -162,6 +162,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [50.65.toFixed(1) = 50.6(???)](https://haragoo30.medium.com/50-65-tofixed-1-50-6-b8f837b7cdc8)
 - [Anjana Vakil: 함수형 JS를 위한 불변 자료구조 (JSConf EU, 2017)](https://medium.com/tech-confs-in-korean/anjana-vakil-%ED%95%A8%EC%88%98%ED%98%95-js%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B6%88%EB%B3%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-jsconf-eu-2017-f52b134bd103)
 - [7 Steps to Secure JavaScript in 2021](https://blog.bitsrc.io/8-steps-to-secure-javascript-in-2021-6d54d5415264)
+- [QR Code Generator With JavaScript](https://morioh.com/p/8a642c34932f)
 
 **[⬆ 위로가기](#-목차-)**
 
