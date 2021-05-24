@@ -298,6 +298,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [React는 왜 React일까?](https://reactiver.dev/where-did-the-name-react-come-from/)
 - [[react] typescript 기반의 리액트 인터페이스(interface, type) 이해하기](https://blog.naver.com/pjt3591oo/222342618084)
 - [5 Advanced React Patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
+- [Redux, Context, or Recoil: Which One Is Best for Your Modern Web App?](https://betterprogramming.pub/redux-context-or-recoil-which-one-is-best-for-your-modern-web-app-db41be99b448)
 
 **[⬆ 위로가기](#-목차-)**
 
