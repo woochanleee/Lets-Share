@@ -301,6 +301,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [5 Advanced React Patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
 - [React Clean Architecture](https://kpiteng.medium.com/react-clean-architecture-e4144a0788b6)
 - [Redux, Context, or Recoil: Which One Is Best for Your Modern Web App?](https://betterprogramming.pub/redux-context-or-recoil-which-one-is-best-for-your-modern-web-app-db41be99b448)
+- [애플리케이션 상태 관리](https://edykim.com/ko/post/application-state-management/)
 
 **[⬆ 위로가기](#-목차-)**
 
