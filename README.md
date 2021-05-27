@@ -453,11 +453,11 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 
 - [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170?fbclid=IwAR1ZseSEM9NOSgsbP4UMsrwNnhpytBmG5YFDoEUBlHpe5PND-ENYFu93Tyc)
 - [WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a#gaerae.com)
-- [MariaDB SkySQL Demo: Setting Up A Service
-  ](https://www.youtube.com/watch?v=0QVJBCJS9nE)
+- [MariaDB SkySQL Demo: Setting Up A Service](https://www.youtube.com/watch?v=0QVJBCJS9nE)
 - [Prisma, 넌 누구니?](https://velog.io/@ltnscp9028/Prisma-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88-gr0ecme3)
 - [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/2020/11/10/if-kakao-2020-commentary-01-kakao/)
 - [standalone-kubelet-with-containerd](https://gist.github.com/leoh0/2129aeff1e4ee1456d95011d402d6e1f)
+- [[Linux] linux 인프라 지표 모니터링을 하기위한 명령어 top](https://devkingdom.tistory.com/m/232)
 
 **[⬆ 위로가기](#-목차-)**
 
