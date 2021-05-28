@@ -97,6 +97,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/)
 - [CSS line-height, 1과 1em의 차이에 대하여](https://www.youtube.com/watch?v=8SJKAMWpe8Y)
 - [CSS Tips](https://markodenic.com/css-tips/)
+- [Speaking Other Stuff About this site 25 Years of CSS](https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/)
 
 **[⬆ 위로가기](#-목차-)**
 
