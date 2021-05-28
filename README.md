@@ -690,6 +690,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [카나리 테스트와 함께하는 안전한 서버 배포](https://engineering.vcnc.co.kr/2021/04/canary/)
 - [가난한 개발자나 스타트업을 위한 무료 서비스들!](https://open-support.tistory.com/entry/%EA%B0%80%EB%82%9C%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%82%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%AC%B4%EB%A3%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%93%A4)
 - [[번역] 22 Best Practices to Take Your API Design Skills to the Next Level](https://velog.io/@juunini/%EB%B2%88%EC%97%AD-22-Best-Practices-to-Take-Your-API-Design-Skills-to-the-Next-Level)
+- [React Interview (리액트 면접질문)](https://appear.github.io/2018/10/20/REACT/react-translate-01/)
 
 ## 알고리즘
 
