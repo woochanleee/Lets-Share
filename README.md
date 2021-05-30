@@ -646,10 +646,8 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [해외개발자 \_ 진짜 개발자가 하는 일 1](https://medium.com/@tpdms2779/%ED%95%B4%EC%99%B8%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC-1-59e96ad061e3)
 - [사용성, 그 이상: 설득형 패턴 만들기](https://brunch.co.kr/@byeon/9)
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
-- [HITS!를 이용하여 Jekyll 블로그에 조회수 배지 달기
-  ](https://ryanking13.github.io/2020/03/09/jekyll-views-count-badge.html)
-- [이직기록 0. Intro](https://jbee.io/career/2020-turnover-0/) -[Todo list 만들기는 이제 그만
-  ](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
+- [HITS!를 이용하여 Jekyll 블로그에 조회수 배지 달기](https://ryanking13.github.io/2020/03/09/jekyll-views-count-badge.html)
+- [이직기록 0. Intro](https://jbee.io/career/2020-turnover-0/) -[Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
 - [문서 번역으로 구글 컨트리뷰터가 되어보자](https://wormwlrm.github.io/2020/04/19/Contribute-to-Google-by-translating-document.html)
 - [우리는 코드 리뷰를 잘하고 있을까요?](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
@@ -692,6 +690,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [가난한 개발자나 스타트업을 위한 무료 서비스들!](https://open-support.tistory.com/entry/%EA%B0%80%EB%82%9C%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%82%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%AC%B4%EB%A3%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%93%A4)
 - [[번역] 22 Best Practices to Take Your API Design Skills to the Next Level](https://velog.io/@juunini/%EB%B2%88%EC%97%AD-22-Best-Practices-to-Take-Your-API-Design-Skills-to-the-Next-Level)
 - [React Interview (리액트 면접질문)](https://appear.github.io/2018/10/20/REACT/react-translate-01/)
+- [포트 포워딩이란?](https://lamanus.kr/59)
 
 ## 알고리즘
 
