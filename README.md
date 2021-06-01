@@ -692,6 +692,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [React Interview (리액트 면접질문)](https://appear.github.io/2018/10/20/REACT/react-translate-01/)
 - [포트 포워딩이란?](https://lamanus.kr/59)
 - [Port 쉽게 이해하기](https://aws-hyoh.tistory.com/entry/Port-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [🚜 웹 크롤링과 아키텍쳐](https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81%EA%B3%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 
 ## 알고리즘
 
