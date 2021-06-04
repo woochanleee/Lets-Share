@@ -310,6 +310,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 ### ReactNative
 
 - [GitHub Actions와 Fastlane을 사용해서 React Native 앱 배포하기](https://dev-yakuza.posstree.com/ko/react-native/github-actions-fastlane/)
+- [React Native CI/CD 환경 구축](https://gist.github.com/Jeontaeyun/d801266b790cfd016ee328b77913727e)
 
 **[⬆ 위로가기](#-목차-)**
 
