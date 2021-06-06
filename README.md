@@ -306,6 +306,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [Redux, Context, or Recoil: Which One Is Best for Your Modern Web App?](https://betterprogramming.pub/redux-context-or-recoil-which-one-is-best-for-your-modern-web-app-db41be99b448)
 - [애플리케이션 상태 관리](https://edykim.com/ko/post/application-state-management/)
 - [Amazing New Features In React Router v6](https://medium.com/age-of-awareness/amazing-new-stuff-in-react-router-v6-895ba3fab6af)
+- [serverless-next.js deploy](https://awesomezero.com/development/serverless)
 
 **[⬆ 위로가기](#-목차-)**
 
