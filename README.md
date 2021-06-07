@@ -623,6 +623,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [웹 디자이너를 위한, 웹 스타일 가이드 지침서](http://styleguide.co.kr/)
 - [Dark Mode UI: the definitive guide](https://uxdesign.cc/dark-mode-ui-design-the-definitive-guide-part-1-color-53dcfaea5129)
 - [The UI & UX tips collection — volume one](https://uxdesign.cc/the-ui-ux-tips-collection-volume-one-f69f0969ed17)
+- [[기획자의 모바일앱 뜯어보기 54] #당근마켓-알림 #카닥-필터 #오늘의집-랜딩페이지 #무신사-마이페이지 #리멤버-커뮤니티](http://icunow.co.kr/mobileapps54)
 
 **[⬆ 위로가기](#-목차-)**
 
