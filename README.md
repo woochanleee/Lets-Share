@@ -546,6 +546,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [300개 이상의 랜딩페이지 사례를 11가지 구분에 따라 확인할 수 있는 곳!](http://icunow.co.kr/landingpageexamples/)
 - [내 웹 페이지 성능을 어떻게 올릴까?— 기초](https://haragoo30.medium.com/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%B4%88-1e107b44eb46)
 - [How to Use Geolocation API in Javascript](https://morioh.com/p/5838c0520b45)
+- [초보자부터 전문가까지 쓰는 핵심 SEO 전략 6가지](https://www.wishket.com/yozm/detail/759)
 
 ### 이벤트
 
