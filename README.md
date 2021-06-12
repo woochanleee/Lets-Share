@@ -166,6 +166,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [QR Code Generator With JavaScript](https://morioh.com/p/8a642c34932f)
 - [ES12 is Going to Make Your Life Easier!](https://javascript.plainenglish.io/es12-is-going-to-make-your-life-easier-6be8d131e117)
 - [Convert Array to JSON Object](https://morioh.com/p/9acdbd845f36)
+- [5 Ways to Allow "Only One Click" in Javascript](https://morioh.com/p/4c24b6c911cd)
 
 **[⬆ 위로가기](#-목차-)**
 
