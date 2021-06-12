@@ -307,6 +307,7 @@ repository 주인이 웹 프론트엔드를 주로 공부하기 때문에 문서
 - [애플리케이션 상태 관리](https://edykim.com/ko/post/application-state-management/)
 - [Amazing New Features In React Router v6](https://medium.com/age-of-awareness/amazing-new-stuff-in-react-router-v6-895ba3fab6af)
 - [serverless-next.js deploy](https://awesomezero.com/development/serverless)
+- [React 18: 렌더링 최적화를 위한 자동 배칭](https://immigration9.github.io/react/2021/06/12/automatic-batching-react)
 
 **[⬆ 위로가기](#-목차-)**
 
